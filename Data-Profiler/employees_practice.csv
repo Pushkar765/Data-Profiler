@@ -1,0 +1,1001 @@
+employee_id,gender,age,department,city,salary,experience_years,joining_date,performance_score,status
+EMP0237,Male,42,HR,Pune,89657.97,19.4,2016-01-14,3.5,Resigned
+EMP0660,Male,40,HR,Bangalore,77675.2,17.9,2017-06-04,3.5,Resigned
+EMP0894,Male,26,Product,Hyderabad,77149.63,2.6,2020-09-03,4.0,Active
+EMP0841,Male,24,Engineering,Hyderabad,72891.5,2.9,2016-01-04,3.1,Resigned
+EMP0113,Female,26,HR,Kolkata,53561.63,2.8,2021-08-02,2.0,Probation
+EMP0080,Female,28,Marketing,Chennai,70332.94,6.1,2023-11-01,3.2,Probation
+EMP0047,Female,30,Operations,Pune,66397.77,4.7,2016-01-18,3.3,Active
+EMP0120,Male,32,Operations,Delhi,62168.7,8.7,2020-01-26,3.8,Resigned
+EMP0730,Male,31,Engineering,Delhi,87915.8,6.3,2021-08-21,3.1,Active
+EMP0172,Female,41,Sales,Chennai,87498.28,16.1,2018-08-08,3.1,Active
+EMP0419,Female,37,Finance,Pune,105642.72,14.4,2022-12-19,2.7,Active
+EMP0433,Female,44,Sales,Mumbai,82336.78,18.0,2022-01-11,4.1,Active
+EMP0183,Female,24,Operations,Bangalore,56351.22,1.9,2023-08-11,3.6,Active
+EMP0479,Female,33,Engineering,Chennai,94103.85,11.4,2022-10-14,2.7,On Leave
+EMP0568,Female,27,HR,Bangalore,49974.98,2.3,2019-05-30,4.7,On Leave
+EMP0450,Female,39,HR,Chennai,69840.21,13.3,2016-07-02,2.7,On Leave
+EMP0830,Male,36,Product,Chennai,94528.53,12.1,2015-09-06,4.9,Active
+EMP0877,Female,41,Operations,Chennai,91159.71,16.4,2015-02-04,5.0,Active
+EMP0114,Male,27,Operations,Chennai,55418.36,,2015-05-15,4.4,Probation
+EMP0923,Female,37,Operations,Chennai,75712.85,14.3,2017-10-10,1.9,Resigned
+EMP0799,Male,33,Engineering,Ahmedabad,84386.52,,2023-03-20,2.5,Active
+EMP0534,Male,42,HR,Bangalore,72152.26,19.2,2024-12-25,3.0,Active
+EMP0051,Female,36,Operations,Kolkata,75661.41,10.9,2024-04-25,,Resigned
+EMP0345,Female,26,Product,Kolkata,81529.9,3.9,2024-07-16,3.0,Resigned
+EMP0301,Female,31,Marketing,Bangalore,71793.43,8.0,2015-10-08,3.5,Resigned
+EMP0439,Female,32,HR,Chennai,68166.77,8.2,2022-02-10,3.7,Active
+EMP0706,Female,25,Operations,Hyderabad,49389.26,0.7,2017-01-26,2.8,Probation
+EMP0845,Male,30,Marketing,Chennai,65466.84,5.6,2022-08-20,3.3,Resigned
+EMP0993,Female,42,HR,Bangalore,98163.16,19.5,2023-03-07,2.0,Resigned
+EMP0264,Male,45,Engineering,Ahmedabad,109170.11,19.0,2018-10-03,3.2,On Leave
+EMP0533,Female,40,HR,Chennai,83305.26,15.4,2019-01-14,2.8,On Leave
+EMP0973,Female,36,Marketing,Chennai,86271.56,10.8,2021-03-09,3.7,Active
+EMP0180,Female,36,Finance,Pune,100004.29,11.1,2020-09-14,3.3,Active
+EMP0511,Male,28,HR,Bangalore,49918.51,4.2,2023-01-08,3.3,On Leave
+EMP0882,Male,38,HR,Mumbai,80046.67,13.9,2021-05-13,3.2,Active
+EMP0407,Female,28,Sales,Delhi,60870.64,5.2,2020-02-24,2.8,On Leave
+EMP0593,Female,42,Product,Delhi,121729.34,19.7,2015-01-17,3.9,Active
+EMP0546,Male,30,Product,Delhi,81452.91,5.1,2023-04-18,3.1,Active
+EMP0793,Female,39,Operations,Hyderabad,97662.56,14.4,2018-03-02,3.1,Probation
+EMP0822,Male,26,Sales,Pune,56597.64,2.2,2021-01-24,2.3,Active
+EMP0056,Female,32,Sales,Hyderabad,67051.79,6.3,2020-06-22,3.4,Active
+EMP0414,Male,40,Engineering,Ahmedabad,95349.59,15.3,2020-02-17,2.9,Probation
+EMP0606,Male,41,Finance,Ahmedabad,99198.51,15.9,2016-04-13,4.3,Resigned
+EMP0802,Male,26,Marketing,Kolkata,63423.13,3.5,2019-08-04,4.3,On Leave
+EMP0862,Male,28,Marketing,Hyderabad,73055.65,,2019-06-28,3.2,Active
+EMP0819,Male,39,Marketing,Mumbai,93063.85,15.8,2016-05-16,3.1,Resigned
+EMP0809,Female,34,Finance,Chennai,93357.11,11.3,2017-09-15,4.4,Active
+EMP0431,Male,27,Engineering,Pune,72854.81,2.7,2019-04-12,,Active
+EMP0421,Female,22,Product,Chennai,71970.5,0.7,2022-08-31,3.7,Active
+EMP0538,Male,27,Sales,Pune,52070.48,1.2,2024-11-12,3.9,On Leave
+EMP0463,Female,36,Marketing,Mumbai,87488.57,10.7,2024-11-04,2.9,Resigned
+EMP0694,,26,Product,Delhi,77507.27,0.5,2022-05-02,2.7,Probation
+EMP0170,Male,31,Marketing,Delhi,67516.61,6.1,2023-12-19,3.1,Active
+EMP0561,Male,38,Marketing,Bangalore,85222.01,13.9,2024-07-22,2.2,On Leave
+EMP0074,Male,28,Marketing,Chennai,67662.81,,2022-10-27,3.5,Active
+EMP0207,,32,HR,Kolkata,65892.48,6.7,2019-06-05,,Active
+EMP0115,Male,28,Sales,Mumbai,57546.23,4.7,2019-06-19,3.9,Active
+EMP0901,Female,25,Marketing,Delhi,64797.71,2.3,2023-12-09,3.6,Probation
+EMP0945,Male,39,Marketing,Kolkata,105891.03,17.1,2018-08-02,4.0,Active
+EMP0638,Male,40,Sales,Mumbai,73968.92,15.7,2022-06-15,2.9,On Leave
+EMP0408,Male,35,Product,Mumbai,91079.31,11.7,2016-02-25,2.6,On Leave
+EMP0842,Male,30,Operations,Mumbai,65833.55,6.4,2018-02-23,2.0,On Leave
+EMP0138,Male,25,HR,Delhi,52801.66,0.9,2019-11-24,3.9,Active
+EMP0984,Female,31,HR,Chennai,61661.77,6.2,2022-03-18,3.1,Resigned
+EMP0791,Male,40,Finance,Ahmedabad,104953.89,18.8,2017-08-08,3.1,Resigned
+EMP0396,Male,39,Marketing,Chennai,102862.99,15.7,2016-10-18,3.4,Active
+EMP0804,Male,32,Sales,Bangalore,71406.76,8.3,2021-06-11,2.1,Active
+EMP0817,Male,41,Engineering,Pune,112726.5,15.1,2021-05-30,2.6,Active
+EMP0250,Female,40,Sales,Hyderabad,80489.44,16.0,2018-05-13,,Probation
+EMP0696,Male,35,Finance,Pune,83840.93,9.0,2020-09-30,3.6,Probation
+EMP0409,Female,27,HR,Hyderabad,54047.47,1.2,2022-05-05,4.2,Probation
+EMP0667,Male,38,Engineering,Mumbai,89630.3,11.4,2020-05-19,3.6,Probation
+EMP0948,Female,40,Operations,Delhi,94225.26,17.1,2018-01-25,4.2,Probation
+EMP0794,Male,24,Operations,Delhi,53626.45,2.2,2023-11-25,2.0,On Leave
+EMP0284,Male,36,Operations,Bangalore,76932.16,10.2,2015-12-05,3.0,Resigned
+EMP0300,Male,39,Finance,,87848.21,13.8,2020-05-10,3.5,Active
+EMP0245,Male,30,Product,Mumbai,85119.0,7.4,2024-05-29,4.8,Active
+EMP0889,Female,33,Operations,Pune,73854.86,9.4,2021-05-20,3.6,On Leave
+EMP0363,Male,30,Marketing,Chennai,65682.24,3.4,2024-09-23,4.0,Resigned
+EMP0416,Female,35,Operations,Pune,78913.57,11.8,2020-08-26,3.7,On Leave
+EMP0259,Male,28,Engineering,Ahmedabad,76150.57,2.3,2021-03-31,3.4,Resigned
+EMP0060,Male,24,HR,Mumbai,55077.29,0.9,2023-06-17,2.5,Active
+EMP0951,Male,46,Sales,Pune,102516.03,19.7,2023-07-01,2.6,On Leave
+EMP0089,,27,Finance,Bangalore,74797.8,3.1,2018-06-26,4.2,Resigned
+EMP0142,Female,37,Product,Pune,105576.54,11.8,2024-09-09,4.3,Probation
+EMP0393,Male,25,Operations,Ahmedabad,54643.22,2.6,2022-11-14,2.9,Active
+EMP0744,Male,41,Sales,Hyderabad,79939.64,16.5,2017-11-02,3.8,Resigned
+EMP0581,Female,43,Finance,Pune,118586.98,18.7,2016-06-15,2.9,Resigned
+EMP0960,Female,31,Marketing,,81026.82,8.0,2018-08-25,2.8,Active
+EMP0294,Male,26,Finance,Pune,68657.84,0.5,2024-07-14,3.1,Active
+EMP0796,Female,39,Engineering,Hyderabad,98646.65,16.2,2020-06-15,2.8,Active
+EMP0151,Female,40,Operations,Pune,98445.05,14.2,2015-03-16,4.1,Active
+EMP0567,Female,40,HR,Bangalore,92950.27,17.7,2020-03-13,2.8,Probation
+EMP0404,Female,31,HR,Hyderabad,64064.27,9.1,2022-07-06,2.3,Active
+EMP0496,Male,31,Sales,Kolkata,68153.98,6.8,2021-11-18,1.9,Active
+EMP0320,Female,35,Marketing,,77615.2,9.5,2016-09-08,3.4,Active
+EMP0867,Male,25,Engineering,Kolkata,74215.38,2.8,2022-02-18,2.1,Active
+EMP0916,Male,43,Engineering,Kolkata,107525.26,19.0,2023-07-12,4.1,Active
+EMP0808,Female,26,Engineering,Chennai,74653.07,1.2,2017-05-25,4.3,Active
+EMP0865,Male,30,Engineering,Pune,73393.37,3.9,2017-05-11,3.9,Active
+EMP0403,Female,37,Product,,98137.26,11.6,2020-06-22,2.1,Active
+EMP0813,Male,34,Finance,Delhi,96150.42,11.9,2015-09-12,2.9,On Leave
+EMP0594,Male,38,Engineering,Delhi,99111.65,13.9,2020-11-02,3.4,Probation
+EMP0687,Male,30,Operations,Delhi,64658.33,4.3,2020-09-27,3.3,On Leave
+EMP0553,Female,30,Sales,Chennai,61200.75,7.0,2024-02-08,2.6,Active
+EMP0272,Female,30,Engineering,Hyderabad,82651.06,5.5,2019-12-31,2.4,Active
+EMP0727,,35,Engineering,Ahmedabad,88694.41,11.0,2021-08-05,2.5,Active
+EMP0515,Male,40,Marketing,Kolkata,77707.3,14.9,2022-08-23,,Active
+EMP0728,Male,33,Sales,Hyderabad,67200.45,7.9,2018-10-08,3.1,On Leave
+EMP0422,Male,42,Marketing,Pune,95807.99,16.9,2024-02-17,3.4,On Leave
+EMP0679,Male,38,Sales,Chennai,85508.63,,2021-05-12,2.3,Active
+EMP0800,Male,39,Marketing,Kolkata,77602.76,13.1,2023-08-17,,Active
+EMP0596,,24,Operations,Delhi,54563.52,2.8,2017-04-26,3.6,Resigned
+EMP0540,Female,32,Engineering,Mumbai,83995.69,,2022-07-22,1.9,Probation
+EMP0743,Female,38,Sales,Pune,73996.58,14.1,2020-04-30,3.2,Probation
+EMP0992,Female,38,Engineering,Mumbai,95468.17,16.0,2022-08-10,1.8,Active
+EMP0032,Male,42,Sales,Bangalore,84736.87,18.7,2018-01-20,3.1,Active
+EMP0788,Male,41,Product,Kolkata,93561.98,16.8,2024-07-07,3.3,On Leave
+EMP0307,Male,42,HR,Mumbai,87353.6,17.3,2021-08-02,3.3,Active
+EMP0619,Male,40,Operations,Pune,91890.07,15.0,2020-12-31,3.4,Active
+EMP0504,Female,29,Finance,Kolkata,75895.98,4.0,2020-11-14,2.0,Probation
+EMP0699,Male,35,Product,Chennai,106604.96,12.7,2022-09-08,2.9,Probation
+EMP0980,Male,36,Finance,Hyderabad,100284.83,13.9,2024-04-28,3.3,Probation
+EMP0940,,30,Marketing,Kolkata,68571.48,5.2,2023-01-10,3.5,Active
+EMP0227,Male,31,Engineering,Kolkata,77151.12,6.1,2020-01-12,3.0,On Leave
+EMP0613,Female,27,HR,Bangalore,58899.3,3.2,2015-02-17,2.7,Active
+EMP0615,,33,Product,Kolkata,93672.05,8.6,2021-03-11,2.8,On Leave
+EMP0723,Female,33,Operations,Kolkata,76874.56,11.0,2021-12-01,,Probation
+EMP0358,Female,35,Marketing,Ahmedabad,89385.56,11.3,2021-06-03,2.9,Active
+EMP0759,Female,40,Marketing,Chennai,105803.53,17.5,2015-10-27,2.7,Active
+EMP0792,Male,38,Marketing,Bangalore,89546.89,12.0,2024-11-26,3.6,Active
+EMP0449,Male,41,Engineering,Chennai,114977.64,17.1,2021-02-04,3.3,Resigned
+EMP0368,Female,29,Engineering,Pune,80871.45,4.2,2024-03-16,3.7,Active
+EMP0372,Male,34,Finance,Chennai,91161.56,11.3,2015-04-23,4.0,On Leave
+EMP0099,Male,38,Marketing,Ahmedabad,96856.1,12.8,2016-11-12,2.9,Probation
+EMP0122,Male,36,HR,Pune,83169.11,13.9,2021-10-27,3.1,Active
+EMP0220,Male,32,HR,Delhi,61728.02,6.5,2022-03-01,3.3,Active
+EMP0983,Female,30,Finance,Delhi,76620.14,7.4,2018-04-03,3.8,Active
+EMP0197,Male,31,HR,Mumbai,71823.73,7.8,2015-07-05,3.8,Active
+EMP0364,Male,42,Sales,Mumbai,84921.08,17.6,2016-12-06,2.8,Active
+EMP0909,Male,31,Operations,Hyderabad,64395.23,8.9,2022-03-14,2.7,Active
+EMP0009,Male,32,HR,Ahmedabad,62783.0,5.7,2016-08-08,2.8,Active
+EMP0857,Female,28,Engineering,Bangalore,77261.61,3.0,2016-08-26,2.6,On Leave
+EMP0514,Male,30,Marketing,Hyderabad,69774.2,4.2,2019-04-26,3.1,On Leave
+EMP0123,Male,28,Engineering,Ahmedabad,78163.08,3.0,2020-09-01,2.5,Resigned
+EMP0415,Female,43,Finance,Ahmedabad,97495.61,19.1,2020-09-13,4.8,Active
+EMP0174,Male,46,Finance,Kolkata,108036.93,20.0,2019-01-28,3.9,Resigned
+EMP0526,,39,Marketing,Kolkata,86408.28,17.5,2022-05-18,3.5,On Leave
+EMP0974,Female,28,Finance,Pune,66952.63,2.4,2024-01-15,3.6,Probation
+EMP0100,Male,41,Sales,Kolkata,81360.09,18.1,2016-08-19,3.3,Active
+EMP0248,Male,33,Finance,Mumbai,80185.19,8.5,2020-08-19,2.6,Probation
+EMP0944,Female,31,Engineering,Delhi,78738.24,6.2,2021-06-04,1.4,Active
+EMP0003,Female,28,Finance,Pune,84131.38,5.9,2016-02-23,,Active
+EMP0779,Female,35,Engineering,Chennai,102344.82,11.2,2018-12-26,2.5,Active
+EMP0529,Female,38,Engineering,Delhi,96925.34,16.6,2016-02-19,2.6,Probation
+EMP0468,Female,37,HR,,79829.96,13.3,2022-04-22,3.2,Resigned
+EMP0459,Male,33,Marketing,,76673.22,11.7,2020-10-17,3.0,On Leave
+EMP0116,Female,41,Marketing,Mumbai,114958.12,19.4,2015-07-27,3.1,Active
+EMP0685,Male,27,Operations,Bangalore,64051.49,3.4,2022-08-09,2.8,Resigned
+EMP0832,Female,38,Operations,Hyderabad,81986.78,15.8,2023-10-12,,Active
+EMP0186,Female,37,Sales,Bangalore,71911.66,12.5,2016-12-02,3.4,Probation
+EMP0048,Male,28,Operations,Delhi,66358.51,6.6,2020-02-09,3.5,On Leave
+EMP0173,Male,32,Engineering,Mumbai,82869.03,6.9,2023-02-25,,Active
+EMP0031,Female,29,Sales,Mumbai,63591.57,6.1,2022-06-28,4.5,Resigned
+EMP0797,Female,40,Sales,Delhi,94635.11,15.8,2022-12-03,4.3,Active
+EMP0337,Female,41,Engineering,Hyderabad,104557.01,16.3,2017-12-27,3.2,Resigned
+EMP0005,Female,30,Finance,Chennai,84000.87,6.2,2015-11-23,3.3,Active
+EMP0451,Female,35,Finance,Bangalore,87021.04,10.5,2023-06-29,3.9,Resigned
+EMP0266,Female,31,Sales,Pune,65673.18,6.2,2019-03-21,2.5,Active
+EMP0912,Female,34,Marketing,Kolkata,88109.49,11.0,2020-11-05,2.1,Active
+EMP0917,,43,Product,Bangalore,117078.61,19.1,2021-03-14,4.5,Probation
+EMP0835,Female,36,Product,Delhi,116808.69,13.8,2018-05-16,3.5,Active
+EMP0843,Female,40,Operations,Ahmedabad,74895.77,14.3,2016-11-29,2.1,Resigned
+EMP0584,Male,34,Sales,Chennai,73114.28,11.4,2023-11-11,2.2,Active
+EMP0305,Male,41,Engineering,Mumbai,110305.83,17.0,2023-10-16,2.0,Active
+EMP0915,Female,28,Sales,Chennai,55886.49,3.7,2024-09-02,2.9,On Leave
+EMP0324,Male,34,Engineering,Chennai,90745.53,12.0,2024-07-17,3.2,Active
+EMP0686,Male,30,Engineering,Pune,87074.66,6.5,2015-08-14,2.1,Resigned
+EMP0991,Female,34,HR,Kolkata,80380.19,11.2,2016-06-22,3.3,Active
+EMP0575,Female,26,HR,Mumbai,50247.44,2.0,2017-01-27,2.5,Active
+EMP0493,Male,34,Finance,Bangalore,86378.34,10.9,2015-09-03,3.3,Active
+EMP0555,Female,41,Sales,Kolkata,90615.11,18.0,2017-09-11,4.1,Resigned
+EMP0769,Male,33,Marketing,Kolkata,71573.71,8.6,2019-03-11,3.3,Resigned
+EMP0260,Female,30,Finance,Pune,76623.98,8.5,2024-09-07,3.4,On Leave
+EMP0072,Male,28,HR,Bangalore,55093.77,5.8,2017-02-23,3.1,Active
+EMP0359,,28,HR,Bangalore,64720.3,6.3,2016-05-07,2.4,On Leave
+EMP0570,Male,38,Operations,Pune,89476.44,16.0,2015-12-16,3.9,Resigned
+EMP0952,Female,28,HR,Kolkata,50744.89,1.9,2016-02-03,3.0,Active
+EMP0931,Male,26,Sales,Mumbai,50127.9,1.8,2022-06-18,3.2,Resigned
+EMP0710,Female,27,Engineering,Kolkata,76925.08,4.0,2016-04-07,2.6,Active
+EMP0629,Male,28,Engineering,Pune,74050.94,2.4,2018-01-12,2.4,Active
+EMP0858,Female,36,Sales,Mumbai,78522.84,12.3,2017-08-30,3.9,Resigned
+EMP0617,Male,33,Finance,Bangalore,88530.09,7.7,2023-03-10,3.8,Probation
+EMP0938,Female,38,Sales,Mumbai,85283.92,12.3,2016-06-07,2.6,On Leave
+EMP0494,Male,31,Product,,83134.54,5.5,2019-01-15,3.0,Resigned
+EMP0044,Male,41,Operations,Chennai,98676.44,18.5,2022-06-24,2.8,On Leave
+EMP0466,Female,37,Product,Chennai,113601.71,15.0,2020-05-08,3.9,Active
+EMP0265,Male,40,Product,Pune,114054.75,16.6,2016-12-28,2.3,On Leave
+EMP0057,Male,34,Sales,Bangalore,62253.13,9.0,2021-12-23,2.9,Resigned
+EMP0448,Male,41,Engineering,Delhi,113518.41,16.9,2023-02-27,2.4,Active
+EMP0169,Male,28,Product,Mumbai,83210.29,,2023-06-13,4.1,Probation
+EMP0840,Male,39,HR,Kolkata,78728.91,,2016-12-26,3.4,Probation
+EMP0523,Female,33,Marketing,Mumbai,80796.95,9.3,2021-12-13,3.3,Active
+EMP0219,Female,40,HR,Mumbai,90571.45,15.2,2022-06-28,4.2,Active
+EMP0096,,45,Finance,Ahmedabad,99564.89,19.3,2015-03-04,2.8,Probation
+EMP0834,Male,34,Product,Chennai,99916.63,12.6,2021-09-14,3.0,Active
+EMP0188,Female,38,Product,Chennai,95700.66,11.7,2022-03-14,3.1,Active
+EMP0957,Male,28,HR,Delhi,55860.93,,2023-09-21,2.8,On Leave
+EMP0598,Male,25,Engineering,Delhi,78373.27,3.0,2019-10-13,3.0,On Leave
+EMP0126,Male,24,HR,Bangalore,48878.09,1.8,2021-03-28,3.8,Active
+EMP0965,Female,31,Engineering,Ahmedabad,82774.97,5.3,2022-10-18,3.0,Active
+EMP0572,Male,28,Product,Chennai,78319.64,3.4,2018-06-21,3.7,Probation
+EMP0943,Male,43,HR,Hyderabad,97833.3,18.2,2017-07-04,3.6,Active
+EMP0176,Male,30,Sales,Pune,67547.78,7.6,2019-03-04,2.5,On Leave
+EMP0059,Male,25,Marketing,Chennai,55219.59,1.5,2024-05-12,3.2,Active
+EMP0871,Female,28,HR,Kolkata,58529.68,4.0,2022-02-26,4.0,Resigned
+EMP0043,Female,34,Operations,Pune,75584.03,9.0,2019-11-02,4.3,Active
+EMP0828,Male,31,Marketing,Bangalore,65412.86,6.5,2015-04-22,3.4,Probation
+EMP0370,Male,26,Product,Hyderabad,74311.05,,2018-01-27,2.4,Active
+EMP0551,Male,33,Engineering,Ahmedabad,86380.87,6.2,2024-09-20,,Resigned
+EMP0002,Female,23,Engineering,Kolkata,72064.31,1.1,2017-06-21,3.9,On Leave
+EMP0601,Female,28,HR,Chennai,54161.6,2.4,2019-01-28,1.5,On Leave
+EMP0039,Female,30,Engineering,Hyderabad,82171.6,8.0,2015-04-07,3.8,Probation
+EMP0972,Female,41,Marketing,Kolkata,82091.11,17.4,2016-03-06,3.6,Active
+EMP0160,Male,33,Engineering,Bangalore,86338.05,7.8,2016-07-17,3.2,Active
+EMP0925,Female,36,Engineering,Kolkata,88131.74,10.6,2021-07-28,3.2,Active
+EMP0129,Female,26,Sales,Mumbai,52439.79,2.7,2021-10-30,2.1,Probation
+EMP0029,Male,39,Operations,Mumbai,77899.28,14.5,2020-02-21,3.0,Resigned
+EMP0226,Female,30,Operations,Mumbai,58801.83,4.7,2015-10-10,2.7,On Leave
+EMP0108,Female,37,Product,Chennai,104838.1,11.0,2024-03-31,3.5,On Leave
+EMP0211,Male,25,Product,Ahmedabad,86208.8,3.2,2022-04-18,2.4,Active
+EMP0674,Male,37,Finance,Delhi,87070.6,13.8,2020-04-09,2.4,Probation
+EMP0102,Male,31,Marketing,Chennai,70422.44,,2022-08-07,2.8,Resigned
+EMP0271,Male,38,Operations,Kolkata,76745.13,13.5,2016-03-09,2.6,Active
+EMP0314,Male,35,Sales,Ahmedabad,75020.85,10.7,2020-09-23,2.7,Active
+EMP0053,Female,36,HR,Delhi,68055.91,12.7,2016-07-20,3.1,Active
+EMP0658,Female,26,Finance,Ahmedabad,75295.74,,2021-08-24,2.1,Resigned
+EMP0267,Female,38,Product,Mumbai,108671.54,15.8,2023-02-26,3.6,On Leave
+EMP0559,Male,27,Operations,,58904.79,1.1,2023-09-27,,Active
+EMP0558,Male,43,Operations,Bangalore,103949.96,18.7,2018-07-24,2.4,Active
+EMP0643,Female,40,HR,Mumbai,90619.27,18.0,2017-03-01,2.4,Active
+EMP0218,Male,29,Operations,Chennai,58908.61,,2019-04-21,,Active
+EMP0863,Female,41,Product,Pune,108212.98,19.8,2015-06-29,3.6,Active
+EMP0921,Male,32,Engineering,Ahmedabad,85729.59,8.0,2022-02-13,3.1,Probation
+EMP0610,Female,44,Sales,Chennai,98121.9,,2015-09-13,2.6,Active
+EMP0162,Male,27,Product,Hyderabad,82983.95,3.4,2018-05-18,3.4,Active
+EMP0890,Male,34,HR,Pune,58717.99,9.5,2022-11-08,2.3,Probation
+EMP0317,Male,39,Finance,Chennai,108207.74,16.2,2024-04-06,3.2,Active
+EMP0742,Female,27,Engineering,Mumbai,80918.81,3.9,2020-07-01,1.9,Resigned
+EMP0038,Female,27,HR,Chennai,48926.7,1.0,2016-10-14,,Probation
+EMP0589,Female,27,Product,Delhi,76538.08,1.1,2024-09-11,2.6,Active
+EMP0221,Male,35,Sales,Ahmedabad,69194.35,12.5,2023-06-30,3.2,Resigned
+EMP0236,Female,37,Product,Ahmedabad,89729.42,11.0,2015-08-25,3.9,Resigned
+EMP0979,Male,28,Engineering,Bangalore,78302.73,3.7,2020-05-18,1.8,On Leave
+EMP0088,Male,34,HR,Mumbai,61937.61,8.6,2017-04-13,4.0,Active
+EMP0429,Male,36,Sales,Delhi,81615.72,10.7,2018-12-02,3.7,Active
+EMP0770,Male,42,Engineering,Ahmedabad,94885.77,16.8,2022-01-17,3.1,Active
+EMP0518,Male,25,Finance,Bangalore,67603.7,2.8,2019-03-02,,Active
+EMP0315,Male,33,Engineering,Hyderabad,92650.24,10.2,2023-04-23,3.9,Resigned
+EMP0184,Male,34,HR,Bangalore,80177.78,10.3,2016-10-25,2.4,Active
+EMP0891,Male,29,Product,Ahmedabad,90342.96,6.3,2019-04-25,3.2,Probation
+EMP0552,Male,27,Finance,Mumbai,73624.2,2.2,2017-10-10,3.1,Resigned
+EMP0849,Male,40,Engineering,Mumbai,101326.05,18.4,2021-08-24,3.1,Probation
+EMP0611,Male,46,Finance,Hyderabad,94724.84,19.4,2019-11-04,3.6,Probation
+EMP0852,Male,40,Product,Chennai,105055.59,14.0,2021-11-06,3.1,Probation
+EMP0711,Male,33,Engineering,Pune,91842.24,9.6,2020-07-15,2.9,Active
+EMP0276,Male,30,Operations,Hyderabad,57938.26,5.3,2023-12-12,2.9,On Leave
+EMP0254,Male,44,Engineering,Delhi,118229.18,19.2,2018-05-10,3.3,Active
+EMP0076,Male,41,Engineering,Bangalore,100408.33,16.5,2016-09-03,3.3,Resigned
+EMP0661,Male,26,HR,Bangalore,55818.31,4.0,2015-05-12,2.9,Probation
+EMP0624,Female,39,Marketing,Ahmedabad,79286.31,13.4,2017-01-10,4.4,Resigned
+EMP0677,Female,30,Operations,Bangalore,54910.1,3.4,2020-04-25,3.9,Active
+EMP0585,Female,28,Sales,Mumbai,67550.26,6.4,2024-05-01,2.8,Active
+EMP0206,Male,34,Sales,Hyderabad,75674.33,11.4,2022-09-28,,Probation
+EMP0313,Male,38,Finance,Mumbai,102451.77,15.8,2018-10-04,3.3,On Leave
+EMP0209,Female,36,Operations,Hyderabad,70056.18,9.8,2017-09-20,,Active
+EMP0178,Female,43,HR,Chennai,81432.18,18.3,2022-10-13,5.0,On Leave
+EMP0165,Female,26,Operations,Mumbai,54193.15,2.2,2019-05-19,1.1,On Leave
+EMP0075,Female,42,Operations,Mumbai,94639.13,17.4,2017-10-31,2.5,On Leave
+EMP0988,,32,Sales,Ahmedabad,60319.65,6.3,2022-05-12,3.3,On Leave
+EMP0356,Male,31,Finance,Chennai,80472.35,8.1,2019-12-07,3.9,On Leave
+EMP0670,Female,27,Finance,Hyderabad,65050.63,1.1,2023-11-01,3.2,Probation
+EMP0539,Male,44,HR,Mumbai,81966.98,18.6,2018-06-02,4.1,Resigned
+EMP0279,Male,32,Marketing,Kolkata,64786.2,7.6,2021-11-08,1.4,On Leave
+EMP0242,Male,38,HR,Hyderabad,75528.66,15.4,2023-04-25,4.0,Active
+EMP0772,Female,35,Product,Kolkata,93555.66,13.1,2016-01-15,3.7,On Leave
+EMP0361,Male,29,HR,Delhi,56507.71,4.4,2019-05-09,2.7,Resigned
+EMP0046,Male,25,Product,Ahmedabad,72264.07,,2019-12-15,2.8,On Leave
+EMP0187,Male,39,Finance,Chennai,103577.84,14.6,2022-04-21,3.3,Active
+EMP0471,Female,40,HR,Delhi,90773.8,14.8,2017-05-28,2.2,Resigned
+EMP0870,Female,27,Finance,Pune,71586.34,,2020-08-04,2.9,Resigned
+EMP0982,Male,36,Marketing,,93908.84,13.7,2024-05-31,1.5,Active
+EMP0251,Female,42,Product,Ahmedabad,117752.45,17.0,2015-08-18,3.8,Probation
+EMP0287,Male,37,HR,,77452.4,11.2,2017-12-12,3.2,Active
+EMP0747,Male,41,Product,Kolkata,100035.03,15.5,2024-06-07,3.9,Active
+EMP0795,Female,28,HR,Bangalore,55081.05,6.4,2024-04-14,3.7,Resigned
+EMP0998,Female,28,Sales,Pune,59747.93,2.6,2015-07-14,3.9,Active
+EMP0498,Male,27,Engineering,Kolkata,74985.39,3.7,2018-01-16,4.0,On Leave
+EMP0230,Male,27,Product,Mumbai,79505.9,5.0,2024-01-29,3.3,Probation
+EMP0839,Male,28,Operations,Mumbai,63066.27,3.9,2024-05-01,3.0,Probation
+EMP0097,,32,Marketing,Delhi,72642.07,8.5,2024-07-20,3.8,Active
+EMP0665,Male,31,Marketing,Kolkata,75265.71,6.9,2015-07-01,3.7,Active
+EMP0902,Male,40,Marketing,Hyderabad,77988.88,14.6,2022-01-02,4.2,Active
+EMP0527,Female,35,Finance,Ahmedabad,90786.09,12.7,2024-12-23,,Active
+EMP0453,Male,38,Marketing,Kolkata,80912.23,15.3,2020-04-07,2.8,On Leave
+EMP0029,Male,39,Operations,Mumbai,77899.28,14.5,2020-02-21,3.0,Resigned
+EMP0919,Male,36,Marketing,Ahmedabad,84988.78,14.4,2019-07-16,3.9,On Leave
+EMP0978,Male,28,Product,Delhi,79014.47,2.2,2023-03-09,3.2,Active
+EMP0645,Female,23,Engineering,Ahmedabad,74778.68,1.2,2022-08-09,4.1,Resigned
+EMP0738,Male,25,Marketing,Ahmedabad,55730.68,1.1,2023-10-10,3.2,Active
+EMP0296,Male,29,Product,Mumbai,85655.65,7.2,2016-05-23,4.5,Active
+EMP0400,Male,40,Engineering,Chennai,109370.18,17.1,2024-11-07,4.0,Probation
+EMP0338,Female,42,Product,,116069.38,15.9,2018-12-24,3.6,Active
+EMP0212,Male,45,Product,,111706.78,19.3,2020-12-31,2.0,Probation
+EMP0513,Male,35,Sales,Delhi,73830.29,9.5,2021-02-02,3.4,On Leave
+EMP0709,Female,44,Engineering,Bangalore,99276.71,19.5,2019-12-06,3.0,Probation
+EMP0662,Female,25,Finance,,71414.59,1.7,2017-06-19,3.6,Active
+EMP0655,Female,46,Finance,,115980.75,19.5,2015-08-06,2.4,Active
+EMP0669,Male,39,Product,Kolkata,100954.86,14.2,2022-09-30,3.2,Active
+EMP0861,Female,33,HR,Hyderabad,63196.23,6.9,2020-03-25,1.6,Resigned
+EMP0469,Female,30,Sales,Kolkata,63549.98,5.6,2021-03-11,3.9,Resigned
+EMP0034,Male,31,Product,Bangalore,83592.57,5.9,2023-04-25,3.2,On Leave
+EMP0478,Male,37,Marketing,Bangalore,81336.13,12.3,2019-07-26,2.8,Resigned
+EMP0079,Male,27,Operations,Ahmedabad,60027.53,4.6,2018-04-07,3.2,Active
+EMP0101,Female,31,Finance,Ahmedabad,83243.52,8.5,2021-07-16,2.7,Active
+EMP0384,Female,40,Product,Bangalore,102798.73,13.8,2017-03-31,2.7,Active
+EMP0692,Female,37,HR,,69578.84,13.0,2017-03-27,3.2,Active
+EMP0976,Male,33,Marketing,Hyderabad,71093.4,7.9,2022-08-09,3.3,Resigned
+EMP0139,Female,35,Marketing,Delhi,69692.54,,2020-09-21,3.2,Probation
+EMP0140,Female,34,Engineering,Hyderabad,92103.52,10.8,2016-02-26,2.7,Active
+EMP0286,Female,38,Engineering,Mumbai,92682.51,11.7,2023-07-10,4.4,Probation
+EMP0987,Male,37,Engineering,,99863.05,10.8,2020-04-11,4.4,On Leave
+EMP0436,Male,30,Engineering,Kolkata,73215.87,4.0,2019-05-09,,On Leave
+EMP0121,Male,45,Marketing,Mumbai,87411.67,18.9,2020-05-15,2.4,On Leave
+EMP0045,,32,Sales,,62403.79,8.3,2019-07-22,4.2,Resigned
+EMP0814,Female,34,Marketing,,74951.55,9.8,2024-10-11,1.9,Active
+EMP0833,Male,37,Sales,Mumbai,66726.72,11.0,2024-02-11,4.1,On Leave
+EMP0935,Male,43,Engineering,Kolkata,105386.75,17.4,2022-05-28,2.5,Active
+EMP0244,Male,43,Operations,Ahmedabad,92553.55,18.9,2016-11-20,3.7,Probation
+EMP0374,,42,Product,Mumbai,108715.32,15.7,2017-07-05,2.4,Active
+EMP0326,Female,33,Marketing,,69538.13,9.3,2018-06-16,4.9,On Leave
+EMP0348,Male,27,Marketing,Mumbai,61215.72,5.4,2019-04-30,3.0,On Leave
+EMP0922,Female,39,Sales,Ahmedabad,89181.86,14.1,2015-05-22,4.7,Active
+EMP0731,Male,24,Sales,Chennai,54615.88,1.8,2019-11-09,3.5,Probation
+EMP0135,Female,23,Sales,Chennai,53923.3,1.4,2018-03-31,,Active
+EMP0924,Male,44,Finance,Kolkata,112882.8,19.1,2022-12-02,2.2,Resigned
+EMP0876,Female,25,Marketing,Pune,54239.67,2.4,2017-10-21,3.9,Active
+EMP0955,Male,40,Engineering,Delhi,107339.4,13.7,2018-12-27,2.0,On Leave
+EMP0626,Male,40,HR,Chennai,74516.17,14.7,2023-06-22,2.0,Active
+EMP0418,Male,39,Finance,Hyderabad,100230.62,14.2,2017-04-02,2.8,Active
+EMP0605,Female,36,Marketing,,88995.15,12.6,2023-10-18,2.5,On Leave
+EMP0784,Male,44,Product,Chennai,113539.35,19.5,2015-12-25,3.8,Active
+EMP0214,Male,45,Marketing,Chennai,114592.5,18.8,2021-05-15,1.8,Resigned
+EMP0549,Male,40,Marketing,Chennai,89049.78,14.1,2017-04-02,2.7,Probation
+EMP0039,Female,30,Engineering,Hyderabad,82171.6,8.0,2015-04-07,3.8,Probation
+EMP0879,Female,42,Finance,Ahmedabad,126613.88,19.8,2023-02-07,3.1,On Leave
+EMP0217,Male,31,Product,Pune,84754.7,,2015-12-22,2.7,On Leave
+EMP0652,Male,25,Engineering,Kolkata,66952.88,0.6,2022-10-11,,On Leave
+EMP0657,,36,Engineering,Delhi,94598.23,13.1,2023-04-21,3.6,Active
+EMP0649,Female,31,HR,Bangalore,69931.58,7.1,2018-08-10,4.0,Active
+EMP0644,Male,45,Operations,Ahmedabad,87856.46,19.9,2020-12-27,2.4,On Leave
+EMP0765,Male,44,Product,Hyderabad,120565.26,,2017-01-20,2.8,Active
+EMP0050,Male,42,Product,Ahmedabad,111219.37,19.2,2016-06-30,4.1,On Leave
+EMP1000,Female,32,Sales,Pune,63360.53,7.0,2019-01-16,4.1,Probation
+EMP0531,Female,38,Product,Kolkata,98067.49,13.0,2020-08-29,3.5,Active
+EMP0196,Female,25,Sales,Delhi,56931.17,1.9,2016-06-11,3.3,Active
+EMP0228,Male,24,HR,Delhi,57932.59,2.1,2017-01-01,1.4,Resigned
+EMP0771,Female,38,Finance,,86960.54,13.3,2017-05-15,1.6,Active
+EMP0929,Female,34,Marketing,Hyderabad,73641.59,10.0,2017-11-28,3.3,On Leave
+EMP0141,Male,29,Sales,Ahmedabad,62937.63,4.3,2023-06-18,3.7,Resigned
+EMP0006,Male,26,Product,Pune,78149.25,2.5,2017-05-08,3.4,Probation
+EMP0599,,39,Marketing,Hyderabad,96578.88,14.2,2022-12-30,2.6,Probation
+EMP0318,Female,30,Finance,Mumbai,86593.29,7.8,2019-07-01,4.8,Active
+EMP0016,,28,Engineering,Bangalore,70595.89,2.2,2022-05-26,,On Leave
+EMP0001,Female,25,Operations,Delhi,56502.2,2.7,2021-08-15,4.1,On Leave
+EMP0426,Female,29,Marketing,Delhi,67776.65,6.2,2019-03-26,4.2,Active
+EMP0705,Male,34,Product,,83299.21,8.9,2015-09-29,2.5,Active
+EMP0040,Male,34,Marketing,Kolkata,66612.82,8.3,2022-08-15,2.9,Resigned
+EMP0128,Female,32,Sales,Delhi,64642.28,7.4,2018-12-05,2.0,Resigned
+EMP0065,Male,35,HR,Pune,70961.46,13.4,2022-02-16,2.5,On Leave
+EMP0442,Female,36,Product,Delhi,87492.91,10.5,2017-01-12,3.0,Probation
+EMP0604,Male,26,Product,Kolkata,73778.22,2.6,2021-08-15,3.9,On Leave
+EMP0083,Male,32,Operations,Chennai,68239.28,8.3,2015-04-16,2.0,Active
+EMP0954,Male,31,HR,Pune,55828.22,6.2,2023-02-21,2.5,Resigned
+EMP0878,Female,40,Sales,Mumbai,93170.54,16.5,2020-04-17,3.2,Probation
+EMP0163,Female,27,Engineering,Mumbai,83766.09,5.1,2022-02-01,3.6,Resigned
+EMP0847,Male,27,Sales,Chennai,56560.33,,2019-09-17,4.3,Resigned
+EMP0438,Male,42,Sales,Chennai,83730.1,18.6,2023-08-01,3.2,On Leave
+EMP0201,Female,40,Product,Hyderabad,93151.5,13.9,2023-02-02,3.4,Active
+EMP0663,Female,30,Finance,Delhi,79218.25,3.6,2019-08-14,2.4,Resigned
+EMP0447,Male,38,Marketing,Bangalore,82362.89,13.8,2022-03-29,3.3,Resigned
+EMP0848,Male,33,HR,Hyderabad,60335.24,6.7,2022-09-25,,On Leave
+EMP0872,Male,27,Operations,Hyderabad,51225.15,1.2,2018-06-07,3.0,On Leave
+EMP0701,Female,29,HR,Delhi,64374.07,7.1,2019-09-06,3.3,On Leave
+EMP0659,Female,31,Sales,Kolkata,76783.21,8.7,2024-10-03,3.6,Active
+EMP0424,Male,45,Engineering,Mumbai,113279.79,18.6,2015-02-23,2.6,Probation
+EMP0171,Male,41,HR,Pune,98492.69,17.8,2023-12-10,4.0,Resigned
+EMP0093,Female,41,Sales,Ahmedabad,79735.82,16.5,2021-01-15,4.0,On Leave
+EMP0939,Male,29,Product,Ahmedabad,83009.82,2.2,2022-06-07,1.7,Resigned
+EMP0869,Male,42,Operations,Ahmedabad,100463.46,16.0,2023-11-14,3.6,Probation
+EMP0530,Female,34,Marketing,Kolkata,74709.6,10.9,2023-05-15,4.8,Active
+EMP0697,Male,23,Finance,Bangalore,67327.99,0.8,2015-08-05,2.2,Active
+EMP0812,Male,36,Sales,Hyderabad,87483.01,13.5,2016-03-07,3.8,Active
+EMP0112,Female,40,Operations,Mumbai,97565.65,16.6,2015-06-02,2.1,Active
+EMP0130,Male,39,Product,Pune,91340.72,14.0,2015-01-26,2.8,Active
+EMP0291,Female,40,Operations,Bangalore,82436.43,16.4,2017-10-19,3.7,Active
+EMP0483,,29,HR,Ahmedabad,60800.93,6.6,2023-04-08,3.2,Active
+EMP0654,Male,42,Finance,Hyderabad,114200.79,19.0,2017-02-25,3.6,Active
+EMP0557,Female,34,Finance,Kolkata,98597.63,11.1,2023-08-21,3.0,Active
+EMP0028,Female,29,Finance,Pune,78870.24,5.3,2017-12-04,3.0,Active
+EMP0238,Male,41,Operations,Delhi,77112.67,16.7,2017-02-09,4.2,Resigned
+EMP0185,,28,Operations,Chennai,66502.98,4.9,2016-05-27,3.6,Probation
+EMP0548,Male,31,Engineering,Ahmedabad,85388.89,7.0,2021-12-26,3.3,Probation
+EMP0600,Female,35,Product,Delhi,106827.13,10.9,2024-02-12,3.4,Probation
+EMP0946,Female,38,Product,Delhi,109116.93,13.7,2019-06-08,3.5,Active
+EMP0740,Female,29,Product,Chennai,79682.08,3.2,2020-07-26,2.8,Active
+EMP0837,Female,30,Product,Pune,87331.47,6.7,2018-10-31,3.2,Active
+EMP0757,Female,30,Product,Mumbai,83445.96,4.5,2018-04-03,3.4,Active
+EMP0690,Male,37,HR,Kolkata,79276.26,15.0,2016-07-25,3.9,Resigned
+EMP0377,Male,34,Finance,Chennai,85232.7,12.4,2022-05-11,4.2,Probation
+EMP0580,Male,26,Finance,,73564.78,1.6,2023-02-13,4.0,Probation
+EMP0389,,25,Sales,,57112.68,,2023-03-01,3.5,Resigned
+EMP0487,Male,32,Sales,Pune,68072.07,8.3,2019-06-01,1.7,Probation
+EMP0106,Female,39,Finance,Delhi,91340.28,16.1,2022-01-14,3.5,Probation
+EMP0381,Female,37,Product,Bangalore,101024.89,13.3,2022-08-16,3.1,Active
+EMP0055,Female,43,Marketing,Kolkata,92504.35,16.7,2020-05-07,4.6,Active
+EMP0412,Female,28,Product,Ahmedabad,88175.42,6.2,2016-07-29,2.7,Probation
+EMP0456,Male,42,Sales,Bangalore,86014.37,16.4,2019-12-07,2.5,Active
+EMP0022,Male,30,Operations,Bangalore,69313.38,7.1,2019-09-25,3.9,Active
+EMP0521,Male,26,Operations,Chennai,61477.34,4.3,2021-02-01,3.8,Probation
+EMP0981,Female,37,Engineering,Mumbai,109272.66,14.4,2021-10-23,3.1,On Leave
+EMP0547,Male,45,Marketing,Chennai,113599.32,19.0,2020-01-18,4.3,On Leave
+EMP0208,Male,41,Product,Ahmedabad,101234.3,16.2,2022-05-10,,Active
+EMP0906,Female,33,Finance,Pune,80520.57,6.8,2016-12-19,2.7,Probation
+EMP0263,Male,41,HR,Delhi,84700.88,15.8,2016-07-08,2.2,Active
+EMP0502,Female,27,Sales,Bangalore,62463.55,5.0,2015-04-28,3.5,Active
+EMP0443,,38,Product,Chennai,92856.77,11.6,2022-07-14,2.2,Active
+EMP0309,Male,40,Finance,Chennai,97120.9,,2015-11-20,2.8,Resigned
+EMP0631,,39,Operations,Delhi,77254.38,14.0,2022-09-08,3.3,On Leave
+EMP0836,Male,41,HR,Hyderabad,88965.77,14.1,2021-11-05,2.7,Resigned
+EMP0232,Male,34,Engineering,Bangalore,82540.22,8.3,2020-08-25,3.6,Active
+EMP0636,Female,34,Marketing,Ahmedabad,79647.87,9.1,2016-03-20,3.5,Active
+EMP0334,Female,31,HR,Kolkata,63381.07,8.5,2017-03-27,4.0,Probation
+EMP0721,Female,43,HR,Chennai,77214.17,17.7,2024-12-02,3.0,Probation
+EMP0202,Male,35,Finance,Bangalore,89846.68,9.9,2024-03-19,2.0,Probation
+EMP0174,Male,46,Finance,Kolkata,108036.93,20.0,2019-01-28,3.9,Resigned
+EMP0545,Male,30,Marketing,Bangalore,66499.62,6.8,2019-12-10,4.2,Active
+EMP0101,Female,31,Finance,Ahmedabad,83243.52,8.5,2021-07-16,2.7,Active
+EMP0172,Female,41,Sales,Chennai,87498.28,16.1,2018-08-08,3.1,Active
+EMP0578,Male,31,Finance,Delhi,79338.32,7.5,2023-07-04,2.3,On Leave
+EMP0312,Female,40,Operations,Ahmedabad,79098.56,14.9,2018-11-21,3.8,Resigned
+EMP0387,Female,39,Marketing,Pune,84661.83,,2015-02-27,3.1,Active
+EMP0104,Male,34,Product,Mumbai,91091.73,9.9,2024-04-22,2.9,Probation
+EMP0914,Male,35,Marketing,Kolkata,92554.79,12.1,2023-02-17,4.1,On Leave
+EMP0816,Male,40,HR,Hyderabad,74439.97,14.4,2020-02-09,3.3,On Leave
+EMP0535,Male,28,Engineering,Bangalore,85287.32,6.4,2016-01-22,3.7,Active
+EMP0729,Male,39,Finance,Hyderabad,102433.9,16.3,2018-03-23,3.7,Active
+EMP0854,Female,39,Product,Delhi,91152.39,13.4,2018-10-23,3.4,Probation
+EMP0732,Female,31,Finance,Bangalore,76514.36,6.6,2024-11-17,2.2,Active
+EMP0137,Male,37,Product,Kolkata,103912.48,15.0,2018-03-31,2.9,Active
+EMP0713,Male,46,Sales,Bangalore,95764.0,19.7,2015-02-22,3.7,Probation
+EMP0950,Female,42,Marketing,Ahmedabad,101578.76,17.0,2023-02-27,4.6,On Leave
+EMP0382,Male,25,Operations,Pune,58914.53,2.2,2017-12-03,2.1,Resigned
+EMP0664,Male,41,HR,Kolkata,79301.58,17.3,2023-04-04,2.8,Active
+EMP0480,Male,38,HR,,81106.67,11.5,2021-07-31,3.2,Active
+EMP0275,Male,32,Engineering,Delhi,91095.4,9.0,2022-08-05,3.3,Active
+EMP0856,Female,35,Operations,Hyderabad,72958.1,10.4,2016-07-17,3.8,Active
+EMP0719,Male,42,Engineering,Ahmedabad,112234.06,19.5,2023-11-22,3.0,On Leave
+EMP0204,Female,40,HR,Pune,89188.54,,2022-06-05,3.6,On Leave
+EMP0085,Male,37,HR,Ahmedabad,68713.01,10.6,2018-11-26,2.0,On Leave
+EMP0425,Male,28,Sales,Hyderabad,66219.18,4.5,2023-09-15,3.4,Probation
+EMP0132,Female,32,HR,Delhi,64807.03,7.1,2024-11-27,3.1,Active
+EMP0261,Female,32,Engineering,Bangalore,78753.53,6.2,2022-09-08,,On Leave
+EMP0748,Male,31,Operations,Delhi,73040.98,8.7,2018-12-12,1.7,On Leave
+EMP0452,,34,Marketing,Ahmedabad,75759.32,9.2,2019-01-09,2.2,Active
+EMP0298,Female,39,Engineering,Mumbai,93663.7,13.3,2019-06-12,2.4,Probation
+EMP0091,,42,HR,Bangalore,86290.83,18.7,2019-04-21,,Active
+EMP0360,Male,41,Marketing,Kolkata,85383.1,19.0,2015-11-17,2.8,Probation
+EMP0179,Male,29,Marketing,Pune,62580.22,2.9,2022-12-16,2.9,Active
+EMP0630,,28,Product,Hyderabad,76867.17,2.4,2020-10-30,2.5,Active
+EMP0252,,39,Engineering,Delhi,96514.51,14.2,2020-12-03,,Active
+EMP0299,Male,37,Sales,Bangalore,87995.18,14.7,2021-08-28,3.6,Active
+EMP0118,Female,40,Product,Chennai,102811.05,18.1,2023-12-15,2.9,Active
+EMP0094,Female,33,Sales,Hyderabad,67282.26,7.0,2021-05-31,3.2,On Leave
+EMP0684,Male,24,Marketing,Ahmedabad,61320.66,,2018-04-02,3.3,Resigned
+EMP0302,Female,26,Finance,Kolkata,66133.52,0.7,2021-11-28,2.9,Probation
+EMP0103,Male,25,Marketing,Chennai,65420.44,1.9,2017-03-26,4.2,On Leave
+EMP0021,Male,32,Product,Delhi,87378.33,8.4,2015-09-06,2.0,On Leave
+EMP0035,Male,41,Finance,Pune,94600.19,14.3,2021-07-13,3.1,Resigned
+EMP0282,Female,39,HR,Bangalore,82220.53,12.9,2020-06-28,3.2,Active
+EMP0528,Male,42,HR,Pune,74196.11,16.1,2023-11-28,3.1,Probation
+EMP0357,Male,30,Sales,Kolkata,54940.32,4.9,2023-06-26,,Resigned
+EMP0541,Female,41,HR,Bangalore,99760.2,19.4,2018-10-08,2.1,Active
+EMP0343,Male,42,Operations,Ahmedabad,87575.46,,2022-04-13,3.5,Active
+EMP0898,Male,36,Engineering,Bangalore,88516.24,10.9,2019-12-10,3.6,Active
+EMP0632,Male,26,Sales,Mumbai,56170.53,4.8,2021-08-30,3.1,Probation
+EMP0149,Male,36,Product,Chennai,113764.33,13.3,2022-05-11,2.9,Probation
+EMP0591,Female,32,Marketing,Mumbai,72601.11,10.7,2023-12-17,3.3,On Leave
+EMP0262,Male,25,Marketing,Chennai,61176.67,3.2,2019-09-21,2.1,Active
+EMP0932,Female,41,Product,Chennai,104799.55,19.8,2020-06-13,3.1,On Leave
+EMP0582,Female,36,Finance,Hyderabad,91433.94,10.2,2022-12-12,4.0,Active
+EMP0985,Male,44,Product,Pune,127890.82,17.9,2018-05-07,3.3,Active
+EMP0760,,28,Finance,Mumbai,65547.28,1.6,2015-01-22,3.7,Active
+EMP0388,Female,41,Product,Hyderabad,103591.43,16.7,2022-10-11,3.3,Active
+EMP0199,,27,Sales,Ahmedabad,63441.11,3.7,2022-12-12,2.5,Resigned
+EMP0928,Male,33,HR,Bangalore,76885.49,10.7,2022-11-23,3.1,Active
+EMP0880,Male,41,Sales,Hyderabad,78195.3,15.9,2019-12-02,2.7,On Leave
+EMP0934,Male,41,Engineering,Bangalore,127850.22,19.5,2015-04-16,3.2,Resigned
+EMP0071,Female,38,HR,Pune,76245.88,14.0,2018-12-12,2.5,Probation
+EMP0977,Male,40,HR,Hyderabad,78240.05,14.3,2018-06-04,2.6,Probation
+EMP0571,Female,34,Operations,Pune,73609.46,8.0,2021-05-05,2.7,Probation
+EMP0767,Female,36,Operations,Chennai,73052.6,11.4,2017-01-09,3.6,Active
+EMP0896,,28,Sales,Ahmedabad,56035.51,2.7,2015-10-07,3.8,Active
+EMP0225,Male,27,HR,Kolkata,55220.84,3.1,2017-11-08,2.9,Active
+EMP0516,Male,28,Sales,Chennai,61779.73,3.6,2020-05-25,2.9,Probation
+EMP0075,Female,42,Operations,Mumbai,94639.13,17.4,2017-10-31,2.5,On Leave
+EMP0491,Male,25,Finance,Kolkata,69613.57,3.1,2017-03-14,3.1,Active
+EMP0231,Male,35,HR,Mumbai,88194.87,12.5,2017-09-29,4.1,Probation
+EMP0574,Female,34,Product,Ahmedabad,100733.89,10.2,2020-02-02,3.2,On Leave
+EMP0025,Male,44,Sales,Bangalore,97657.6,,2017-02-16,3.1,Active
+EMP0554,Female,32,Operations,,68443.68,5.5,2017-07-12,4.0,Active
+EMP0246,Female,39,Product,Delhi,106851.78,13.5,2022-12-06,1.8,Active
+EMP0233,Male,41,Marketing,Bangalore,95784.37,16.4,2022-05-28,2.9,Resigned
+EMP0806,Female,42,Sales,Kolkata,75313.54,18.2,2020-01-02,3.9,Probation
+EMP0119,Female,39,Engineering,Chennai,85766.78,13.4,2015-08-03,3.2,Active
+EMP0897,Male,37,Finance,Delhi,98563.19,13.3,2016-12-26,3.1,Active
+EMP0196,Female,25,Sales,Delhi,56931.17,1.9,2016-06-11,3.3,Active
+EMP0213,Male,41,Operations,Kolkata,82821.41,17.1,2023-11-02,4.1,On Leave
+EMP0092,Male,33,Finance,Pune,97957.76,10.4,2023-11-01,3.3,Resigned
+EMP0159,,42,Engineering,Pune,104339.36,19.0,2017-08-23,3.4,On Leave
+EMP0562,Male,33,HR,Chennai,62195.82,9.7,2019-08-19,3.2,Active
+EMP0777,Male,37,Marketing,Kolkata,92979.61,13.1,2015-11-21,,On Leave
+EMP0959,Male,32,Engineering,Delhi,95129.37,10.0,2023-11-28,2.4,Resigned
+EMP0411,Male,32,Finance,Pune,91270.92,9.7,2024-04-22,3.2,Probation
+EMP0505,Male,34,Operations,,83027.41,10.9,2016-09-29,3.7,Active
+EMP0072,Male,28,HR,Bangalore,55093.77,5.8,2017-02-23,3.1,Active
+EMP0352,Female,35,Marketing,,76996.55,12.3,2022-10-26,4.9,Resigned
+EMP0844,Male,38,Marketing,,88294.55,13.4,2023-05-14,4.1,Active
+EMP0704,Male,28,Sales,Delhi,50702.5,2.9,2015-03-19,2.8,On Leave
+EMP0702,Male,26,Engineering,Bangalore,69924.97,2.8,2024-02-29,3.6,On Leave
+EMP0366,Male,41,Sales,Ahmedabad,80720.15,18.0,2024-08-16,2.8,Probation
+EMP0369,Female,39,Finance,Mumbai,92510.66,15.9,2016-12-12,3.4,Active
+EMP0095,Female,41,Marketing,Ahmedabad,89579.76,17.2,2015-06-01,3.8,Active
+EMP0990,Male,37,HR,Chennai,87375.58,15.0,2016-05-01,2.9,On Leave
+EMP0168,Male,30,Operations,Chennai,61139.79,4.1,2017-04-05,3.4,Active
+EMP0536,Female,32,HR,Chennai,59307.16,7.4,2024-02-05,2.2,Active
+EMP0105,,31,HR,Chennai,63716.47,5.9,2023-09-13,4.1,Active
+EMP0156,Male,28,Product,Kolkata,83529.27,4.3,2020-08-21,2.4,Resigned
+EMP0144,Male,26,HR,Kolkata,48334.5,1.2,2020-03-10,3.4,Resigned
+EMP0070,Male,29,Product,Delhi,85631.95,5.2,2018-04-20,3.2,Active
+EMP0066,Female,28,Operations,Ahmedabad,58392.19,3.5,2020-03-19,3.6,On Leave
+EMP0509,Female,37,HR,Chennai,79891.01,12.7,2019-08-19,3.0,Active
+EMP0975,Male,45,Operations,Bangalore,97518.12,19.4,2022-05-17,2.8,Active
+EMP0910,Male,44,Marketing,Bangalore,103805.35,18.5,2018-02-13,3.2,Active
+EMP0050,Male,42,Product,Ahmedabad,111219.37,19.2,2016-06-30,4.1,On Leave
+EMP0041,,41,Sales,Kolkata,86156.64,18.8,2018-11-16,3.7,Probation
+EMP0733,Male,37,Operations,Chennai,92444.15,14.2,2022-02-25,4.3,Resigned
+EMP0609,Female,33,HR,Chennai,71505.53,10.9,2019-11-16,2.9,Probation
+EMP0036,Male,35,Marketing,Pune,67554.93,8.9,2017-05-10,2.8,Probation
+EMP0573,Male,45,Product,Mumbai,105923.84,19.2,2020-02-22,3.3,On Leave
+EMP0183,Female,24,Operations,Bangalore,56351.22,1.9,2023-08-11,3.6,Active
+EMP0406,Male,27,Finance,Bangalore,65513.43,1.6,2015-11-03,3.8,On Leave
+EMP0860,Female,37,HR,Pune,90618.01,14.0,2021-11-28,4.7,Active
+EMP0095,Female,41,Marketing,Ahmedabad,89579.76,17.2,2015-06-01,3.8,Active
+EMP0027,Male,42,Finance,Hyderabad,102827.88,18.4,2019-07-12,3.4,Active
+EMP0564,Male,31,Product,Pune,88628.32,9.4,2019-06-03,3.0,Resigned
+EMP0986,Male,24,Engineering,Kolkata,68562.75,0.6,2020-07-08,3.2,Active
+EMP0323,Male,41,Marketing,Bangalore,98041.97,18.0,2022-02-23,3.5,On Leave
+EMP0766,Male,32,HR,Mumbai,61694.39,5.6,2019-12-14,3.4,Active
+EMP0595,Male,33,Operations,Pune,65739.27,6.6,2023-09-01,3.0,On Leave
+EMP0716,Female,30,Engineering,Chennai,80676.38,5.0,2023-06-25,4.0,Probation
+EMP0970,Male,39,Operations,Kolkata,90919.25,16.5,2015-04-17,1.0,Resigned
+EMP0752,Female,31,Marketing,Delhi,72442.41,5.6,2019-08-25,2.1,Active
+EMP0054,Male,32,Marketing,Ahmedabad,65973.19,8.0,2019-08-31,3.8,Active
+EMP0859,Male,39,Product,Pune,118059.91,16.8,2017-02-14,3.7,Probation
+EMP0018,Male,31,Operations,Pune,73740.35,7.8,2015-03-28,2.7,Resigned
+EMP0331,,45,Engineering,Delhi,107212.72,,2015-06-24,4.3,On Leave
+EMP0989,Male,29,Marketing,Mumbai,58444.14,3.2,2016-07-01,3.1,On Leave
+EMP0850,Male,43,Sales,Pune,81351.11,16.9,2020-10-29,3.1,Active
+EMP0292,Female,30,Operations,Chennai,68160.61,6.8,2022-01-15,3.4,On Leave
+EMP0465,Male,34,Operations,Kolkata,74714.37,8.9,2018-12-06,1.7,Resigned
+EMP0739,Male,43,Engineering,Delhi,99143.97,17.3,2019-06-14,3.8,Probation
+EMP0637,Male,42,Finance,Delhi,94760.87,15.5,2021-05-29,3.1,Probation
+EMP0467,Male,25,Product,Delhi,77471.93,2.1,2020-10-29,4.4,Active
+EMP0281,Female,28,Sales,Kolkata,52313.04,2.8,2019-09-29,2.5,Active
+EMP0111,Male,37,Product,Hyderabad,100492.1,13.0,2022-04-06,2.0,Active
+EMP0801,Male,39,Marketing,Pune,90003.9,16.8,2022-01-22,3.1,Probation
+EMP0455,Male,29,Finance,Hyderabad,73326.97,3.9,2020-10-16,3.6,On Leave
+EMP0161,Male,44,Sales,Mumbai,93950.86,18.4,2017-11-14,2.3,Active
+EMP0672,Male,37,HR,Hyderabad,70561.97,12.6,2016-07-20,2.8,Active
+EMP0392,Female,36,Operations,Mumbai,76305.24,13.2,2021-08-29,2.8,Active
+EMP0958,Male,40,Product,Delhi,107530.33,16.5,2016-04-22,3.0,Active
+EMP0675,Male,38,Finance,Hyderabad,94422.82,13.7,2024-11-29,3.7,On Leave
+EMP0818,Male,34,Engineering,Ahmedabad,85989.01,,2015-04-25,2.8,Active
+EMP0378,Female,32,Operations,Kolkata,65521.58,,2022-05-29,3.1,Active
+EMP0081,Female,38,Finance,Delhi,103118.13,13.4,2015-09-02,2.3,Active
+EMP0432,Male,30,HR,Ahmedabad,57469.86,5.5,2020-06-16,2.9,Active
+EMP0030,Male,43,Finance,Delhi,94168.38,19.9,2024-11-10,3.8,Active
+EMP0762,Female,32,Finance,Kolkata,84969.38,10.1,2016-08-03,3.0,Active
+EMP0846,Male,25,HR,Kolkata,50801.33,0.5,2024-06-20,2.8,On Leave
+EMP0864,Male,29,Marketing,Hyderabad,66603.19,4.4,2017-01-01,3.6,Active
+EMP0210,Male,40,Operations,Ahmedabad,82789.2,18.2,2016-02-16,2.8,Probation
+EMP0971,,26,Marketing,Pune,54473.76,2.0,2023-09-22,4.1,Active
+EMP0306,Male,30,HR,Pune,64273.8,8.0,2018-07-20,3.1,Active
+EMP0012,Male,46,Finance,Delhi,115354.85,19.9,2022-08-24,2.3,Resigned
+EMP0434,Male,37,Marketing,Hyderabad,94830.59,,2021-01-11,4.7,Probation
+EMP0386,,29,Marketing,Bangalore,64994.87,6.6,2020-06-28,2.9,Active
+EMP0255,Female,31,Finance,Delhi,78201.84,5.2,2020-08-13,2.6,Probation
+EMP0290,Male,31,Finance,Chennai,77085.45,6.0,2024-08-15,2.4,Resigned
+EMP0517,Male,27,Sales,Mumbai,66094.21,4.4,2016-11-16,4.0,Active
+EMP0537,Male,33,Engineering,Delhi,94476.1,11.6,2021-09-04,2.8,Probation
+EMP0668,Male,28,Sales,Ahmedabad,58802.83,3.7,2023-08-28,3.6,Active
+EMP0873,Male,36,HR,Pune,80418.75,11.6,2017-07-31,3.4,Resigned
+EMP0303,Male,43,HR,Pune,72204.21,17.3,2023-11-15,2.6,Active
+EMP0124,Female,27,HR,Hyderabad,57654.33,2.4,2019-10-28,3.8,On Leave
+EMP0612,Female,32,Finance,Hyderabad,80040.86,8.2,2022-06-06,,Active
+EMP0855,Male,38,Operations,Hyderabad,84743.56,15.8,2021-06-05,4.0,Active
+EMP0907,Female,42,Product,Ahmedabad,110507.57,17.7,2019-04-16,2.7,Resigned
+EMP0550,Male,28,Finance,Pune,82196.92,5.8,2024-09-10,3.1,Active
+EMP0881,Male,34,Product,Pune,96282.46,11.4,2017-07-12,3.3,On Leave
+EMP0322,Female,46,Finance,Chennai,111567.41,19.7,2016-01-17,3.2,Active
+EMP0497,Female,38,HR,Kolkata,66656.84,12.8,2024-07-09,2.7,Active
+EMP0328,Male,30,Operations,Bangalore,62912.75,5.3,2015-05-08,2.3,On Leave
+EMP0022,Male,30,Operations,Bangalore,69313.38,7.1,2019-09-25,3.9,Active
+EMP0150,,31,Operations,Pune,75759.77,8.1,2024-02-13,3.0,Active
+EMP0576,Female,38,Engineering,Chennai,94065.37,13.2,2018-09-18,2.6,Active
+EMP0495,Female,41,Finance,Bangalore,95477.25,18.7,2023-10-02,4.4,Active
+EMP0365,Female,25,HR,Mumbai,57899.46,3.3,2023-05-13,3.7,On Leave
+EMP0336,Male,41,Sales,Hyderabad,90124.51,18.3,2015-05-01,3.1,Active
+EMP0900,Female,33,Sales,Hyderabad,67541.88,9.2,2019-03-15,1.9,Active
+EMP0229,Female,32,HR,Kolkata,73218.2,10.8,2020-12-18,3.8,On Leave
+EMP0680,Male,30,Product,Mumbai,86713.18,6.5,2016-08-30,3.0,Active
+EMP0486,,36,Sales,Bangalore,84048.22,10.1,2023-07-28,2.3,Resigned
+EMP0061,Female,27,Marketing,Ahmedabad,58258.33,4.4,2022-11-05,2.8,Active
+EMP0373,Male,29,Engineering,Kolkata,83375.21,3.7,2020-10-03,2.6,Active
+EMP0147,Male,31,Operations,Pune,71659.67,9.0,2022-08-12,2.8,Resigned
+EMP0283,Female,30,Marketing,Kolkata,67522.31,4.1,2021-04-19,4.0,Resigned
+EMP0887,Female,27,HR,Bangalore,54362.55,3.6,2024-10-05,4.8,Active
+EMP0399,Male,27,HR,Delhi,55821.06,1.5,2016-01-25,2.5,Active
+EMP0963,Female,26,Operations,Delhi,64333.46,4.0,2021-04-22,,Active
+EMP0718,Male,32,HR,Delhi,69260.16,10.2,2020-08-02,3.2,Probation
+EMP0273,Male,32,HR,Kolkata,73838.04,9.5,2015-12-18,,Active
+EMP0618,Male,44,Finance,Delhi,126406.1,19.7,2017-10-01,3.7,On Leave
+EMP0474,Female,32,Operations,Mumbai,76953.03,8.0,2023-09-04,3.5,Active
+EMP0707,Female,24,Sales,Hyderabad,54352.15,1.1,2020-08-30,2.6,Resigned
+EMP0542,Female,34,HR,Kolkata,65249.93,11.6,2023-09-05,3.7,Probation
+EMP0905,Female,28,HR,Bangalore,68180.17,6.4,2017-10-28,1.1,Active
+EMP0666,Male,38,HR,Ahmedabad,80650.58,14.8,2020-07-21,3.9,Active
+EMP0639,Male,25,Sales,Kolkata,55894.92,3.5,2019-07-13,2.9,Probation
+EMP0152,Female,28,Sales,Bangalore,61761.84,4.0,2016-09-26,3.8,Active
+EMP0394,Female,39,Marketing,Chennai,87492.25,14.1,2021-12-25,3.3,Resigned
+EMP0746,Female,29,Sales,Ahmedabad,71155.37,6.4,2022-01-30,4.2,Active
+EMP0524,Male,39,Product,Hyderabad,92594.54,12.6,2020-11-16,2.4,Probation
+EMP0051,Female,36,Operations,Kolkata,75661.41,10.9,2024-04-25,,Resigned
+EMP0999,Male,23,Engineering,Bangalore,69461.72,,2017-10-30,3.0,On Leave
+EMP0994,Female,32,Marketing,Kolkata,72952.16,5.4,2017-03-23,3.3,On Leave
+EMP0577,Female,26,Engineering,Bangalore,74388.92,2.6,2020-02-09,2.6,Probation
+EMP0786,Male,40,Product,Kolkata,98412.49,15.9,2015-03-31,2.8,Active
+EMP0256,Female,25,Sales,Kolkata,56620.2,1.5,2023-09-04,4.2,Active
+EMP0937,Male,39,Sales,Delhi,75194.99,13.7,2023-03-27,3.4,On Leave
+EMP0625,Male,26,Product,Kolkata,79947.17,1.1,2017-09-01,3.8,Probation
+EMP0749,Female,40,Finance,Ahmedabad,97395.08,14.7,2023-11-15,3.3,Probation
+EMP0235,Female,45,Engineering,,128504.83,19.5,2019-03-22,2.9,Active
+EMP0587,Male,33,Operations,Chennai,82538.73,9.5,2021-05-03,3.8,Probation
+EMP0758,Male,37,Marketing,Delhi,89458.78,12.5,2015-02-12,3.6,On Leave
+EMP0853,Male,25,HR,Hyderabad,53122.0,1.8,2024-09-11,3.0,Resigned
+EMP0131,Female,29,Product,Hyderabad,75899.71,3.3,2019-03-21,3.5,On Leave
+EMP0200,Male,32,Sales,Chennai,63256.96,9.8,2023-12-08,4.3,Probation
+EMP0340,Male,43,Product,Mumbai,127806.57,19.8,2016-01-05,2.6,Active
+EMP0592,Male,29,Finance,Pune,71870.33,3.5,2016-08-09,3.5,Active
+EMP0349,Male,35,Operations,Hyderabad,66360.91,8.7,2016-10-28,2.8,On Leave
+EMP0569,Male,34,Sales,Pune,67348.51,9.3,2022-10-04,3.4,Probation
+EMP0288,Female,42,Product,Hyderabad,112340.7,16.4,2024-02-03,2.6,Probation
+EMP0886,Female,37,Sales,Pune,67081.12,13.4,2024-08-22,3.3,On Leave
+EMP0650,Male,24,Product,Bangalore,70096.46,1.4,2022-10-23,3.9,Active
+EMP0785,Female,27,Marketing,Hyderabad,51493.15,0.8,2019-11-20,3.5,Probation
+EMP0240,Female,45,Operations,Kolkata,93793.56,20.0,2017-09-07,4.6,Resigned
+EMP0335,Male,36,Product,Ahmedabad,101439.9,10.8,2021-02-08,4.4,On Leave
+EMP0215,Female,43,Engineering,Ahmedabad,106791.17,18.6,2018-01-22,1.7,Active
+EMP0253,Male,28,Marketing,Mumbai,71765.55,,2017-01-04,,Active
+EMP0428,Male,26,Finance,Pune,70503.95,1.5,2015-10-26,3.2,Probation
+EMP0961,Female,44,Operations,,97858.54,18.2,2015-09-19,4.1,Resigned
+EMP0458,Male,27,Operations,Mumbai,58574.89,2.7,2017-09-25,4.0,Active
+EMP0019,Male,30,Finance,Delhi,69861.56,5.0,2020-10-06,3.4,Active
+EMP0824,Female,26,Engineering,Hyderabad,81209.2,4.3,2023-06-02,2.3,On Leave
+EMP0485,Male,43,Engineering,Ahmedabad,117886.66,18.4,2019-03-01,3.3,Resigned
+EMP0579,Female,36,Product,Hyderabad,90065.05,11.2,2022-10-21,3.1,Active
+EMP0379,Male,26,Operations,Hyderabad,56895.91,3.2,2018-11-06,3.8,Probation
+EMP0035,Male,41,Finance,Pune,94600.19,14.3,2021-07-13,3.1,Resigned
+EMP0942,Female,33,Operations,,77530.45,10.1,2022-03-22,2.2,Active
+EMP0995,Female,40,Operations,Hyderabad,80447.21,15.8,2016-05-08,3.7,Active
+EMP0829,Male,32,Engineering,Mumbai,76807.74,6.3,2017-04-09,3.1,Active
+EMP0888,,33,Sales,Hyderabad,72571.92,8.9,2020-08-20,3.9,Probation
+EMP0133,Male,26,Marketing,Kolkata,65476.01,3.6,2018-01-23,2.8,Active
+EMP0614,Female,24,Operations,Delhi,53932.62,0.8,2016-07-16,3.5,Probation
+EMP0911,Female,39,Operations,Pune,79556.49,15.8,2018-11-04,3.6,Active
+EMP0627,Male,29,Engineering,Kolkata,75986.52,3.8,2020-04-27,3.2,Active
+EMP0440,Male,39,Sales,Mumbai,92286.34,13.7,2021-03-17,3.7,Resigned
+EMP0634,Male,30,Marketing,Kolkata,71244.16,5.4,2022-10-06,3.7,Probation
+EMP0319,Male,39,HR,Chennai,92396.04,17.4,2023-04-18,2.6,Resigned
+EMP0646,Male,40,Marketing,Mumbai,78462.51,15.0,2020-04-14,4.1,Resigned
+EMP0347,Male,37,Sales,Ahmedabad,82678.7,15.0,2015-02-16,3.4,Active
+EMP0920,Female,44,HR,Delhi,87854.03,19.4,2019-08-02,2.3,Active
+EMP0953,Female,41,Sales,Bangalore,89083.47,,2019-12-15,,Probation
+EMP0316,Male,25,Engineering,Bangalore,71357.66,1.4,2017-01-03,3.8,Active
+EMP0930,Male,35,HR,Delhi,82628.85,12.7,2019-03-28,,Active
+EMP0503,Female,31,Operations,Ahmedabad,77189.23,7.5,2016-07-07,4.3,Probation
+EMP0427,Female,32,HR,Mumbai,55797.81,5.9,2016-09-21,4.0,Active
+EMP0222,Male,39,Product,Ahmedabad,93964.73,13.4,2020-12-03,2.2,Probation
+EMP0507,Male,33,Product,Hyderabad,86138.6,9.8,2019-08-14,3.2,Resigned
+EMP0532,Male,27,Operations,Pune,62221.66,3.6,2024-06-22,2.9,Active
+EMP0241,Male,39,Sales,Ahmedabad,82643.99,,2016-02-08,3.1,Probation
+EMP0145,Female,45,Finance,Ahmedabad,110230.32,19.1,2020-08-15,2.8,Active
+EMP0297,Male,36,HR,Bangalore,75362.91,9.4,2024-10-21,4.4,Active
+EMP0623,Female,39,Product,Bangalore,102831.59,15.8,2021-08-20,3.1,Probation
+EMP0489,Male,35,HR,Pune,72588.0,11.8,2019-02-07,2.7,Active
+EMP0332,Male,27,Engineering,Kolkata,82187.99,3.8,2022-08-30,3.9,On Leave
+EMP0069,Female,30,Sales,Kolkata,68166.47,6.0,2020-06-24,2.7,Resigned
+EMP0913,Female,31,Marketing,Hyderabad,72431.15,9.1,2016-05-29,3.6,Active
+EMP0776,,30,Product,Pune,87009.27,7.7,2020-03-13,,Probation
+EMP0820,Male,25,Sales,Pune,52632.41,1.8,2023-10-06,3.6,On Leave
+EMP0682,Female,43,Engineering,Mumbai,116408.46,19.9,2022-06-19,5.0,Active
+EMP0500,Male,28,Operations,,68622.79,5.4,2016-01-27,3.4,Active
+EMP0164,Female,30,Finance,Kolkata,73212.29,5.2,2017-02-06,2.5,Probation
+EMP0446,Male,29,HR,Chennai,58341.93,3.8,2024-06-03,2.3,Active
+EMP0899,Female,27,Marketing,Delhi,64043.28,4.7,2019-05-19,2.8,Probation
+EMP0789,,33,Operations,Ahmedabad,87630.35,11.8,2017-08-07,2.5,Probation
+EMP0622,Male,43,Operations,Bangalore,106967.37,19.8,2020-09-01,4.2,Active
+EMP0499,Male,44,Product,Bangalore,108243.33,17.3,2023-02-28,2.8,Active
+EMP0787,Female,42,Marketing,Hyderabad,101660.57,18.1,2018-04-22,4.0,Resigned
+EMP0947,Female,40,Finance,Chennai,101914.99,17.1,2016-08-20,3.4,Probation
+EMP0285,Female,39,Engineering,Ahmedabad,94619.66,16.0,2021-03-01,2.9,Resigned
+EMP0563,Female,36,Operations,Ahmedabad,73583.43,13.6,2022-09-18,3.9,Active
+EMP0311,Male,45,Operations,Chennai,84931.76,19.1,2022-06-21,,Probation
+EMP0163,Female,27,Engineering,Mumbai,83766.09,5.1,2022-02-01,3.6,Resigned
+EMP0402,Male,29,Engineering,Kolkata,82843.5,3.1,2021-08-16,3.6,On Leave
+EMP0510,Male,26,Product,Chennai,71172.45,1.8,2022-11-09,2.7,Resigned
+EMP0023,Female,35,Sales,Mumbai,72465.27,9.5,2016-01-18,3.4,Active
+EMP0866,Female,31,HR,Kolkata,63723.09,5.2,2024-11-06,4.0,Probation
+EMP0155,Female,37,Sales,Hyderabad,74873.23,13.7,2018-06-21,3.2,On Leave
+EMP0278,,30,Operations,Delhi,63049.93,4.7,2023-12-19,2.9,Resigned
+EMP0154,Female,29,Marketing,Ahmedabad,67874.94,3.7,2015-06-28,3.1,On Leave
+EMP0484,Female,37,Marketing,Pune,93642.67,14.8,2016-09-30,1.6,Active
+EMP0401,Male,31,Engineering,,81848.18,7.8,2022-04-11,1.9,Active
+EMP0017,Female,30,Finance,Chennai,74544.53,3.7,2019-06-23,4.3,Probation
+EMP0098,Male,38,Product,Mumbai,107827.29,13.6,2021-12-04,3.1,Active
+EMP0223,Female,26,Sales,Bangalore,50310.09,2.0,2018-09-05,2.3,Resigned
+EMP0189,Male,29,HR,Ahmedabad,61429.35,5.3,2020-03-17,3.0,Active
+EMP0608,Male,39,Operations,Bangalore,77090.05,13.4,2022-05-30,3.1,Active
+EMP0155,Female,37,Sales,Hyderabad,74873.23,13.7,2018-06-21,3.2,On Leave
+EMP0177,Male,25,Product,Bangalore,74082.58,2.0,2020-08-06,2.9,Resigned
+EMP0678,Female,31,HR,Pune,68611.81,9.2,2019-08-14,,Resigned
+EMP0445,Female,25,Finance,Pune,68260.08,1.9,2024-01-22,2.6,Active
+EMP0015,Female,36,Engineering,Mumbai,93360.16,12.2,2017-09-13,4.5,Resigned
+EMP0375,Male,41,Finance,Ahmedabad,101392.92,16.2,2017-10-29,2.6,Active
+EMP0410,Male,42,HR,Pune,82398.01,19.0,2021-04-13,3.0,Resigned
+EMP0153,Male,43,Sales,Bangalore,80787.84,17.0,2021-09-12,3.3,On Leave
+EMP0648,Female,36,Product,Hyderabad,100783.72,12.0,2015-09-16,2.5,Active
+EMP0391,Male,42,Marketing,Bangalore,108702.77,19.0,2016-05-19,3.1,Active
+EMP0325,,32,Product,Delhi,92794.88,8.2,2016-09-28,3.4,Active
+EMP0908,Male,37,Operations,Delhi,87873.24,15.0,2018-06-19,4.0,Active
+EMP0026,Male,45,Marketing,Mumbai,101376.1,19.4,2021-07-20,,On Leave
+EMP0430,Female,40,Marketing,Ahmedabad,79690.18,13.4,2021-04-18,3.9,Probation
+EMP0395,Male,28,Operations,Ahmedabad,56836.28,3.2,2017-03-24,3.5,Resigned
+EMP0756,Male,27,Marketing,Kolkata,69551.42,4.2,2016-06-17,1.6,On Leave
+EMP0146,Male,36,Engineering,Bangalore,98636.76,9.3,2015-06-10,3.0,Active
+EMP0157,Male,41,HR,Delhi,103611.59,19.3,2022-12-23,3.2,Resigned
+EMP0464,Female,41,Finance,Mumbai,91518.66,15.2,2023-09-09,2.9,Probation
+EMP0476,Male,23,Operations,Kolkata,49233.53,1.2,2018-12-17,3.1,Probation
+EMP0475,Female,36,Operations,,70817.94,10.1,2021-11-24,2.7,Active
+EMP0413,Male,37,Operations,Hyderabad,77350.97,14.6,2023-01-14,3.8,Active
+EMP0333,Female,31,Marketing,Hyderabad,73931.99,7.4,2022-04-05,3.8,Active
+EMP0473,Male,41,Engineering,Delhi,114021.79,16.2,2021-10-30,3.7,Active
+EMP0477,,33,HR,Pune,58277.58,8.4,2018-11-24,4.0,Active
+EMP0420,Male,32,Product,Chennai,89138.49,7.4,2024-11-03,1.4,On Leave
+EMP0362,Male,37,HR,Kolkata,79666.66,11.3,2016-04-05,4.2,On Leave
+EMP0708,Female,25,Engineering,Chennai,70821.12,2.4,2016-12-04,2.9,Resigned
+EMP0044,Male,41,Operations,Chennai,98676.44,18.5,2022-06-24,2.8,On Leave
+EMP0175,Female,41,Product,Delhi,93585.11,15.1,2017-08-24,2.9,Probation
+EMP0602,Male,40,Marketing,Ahmedabad,93106.36,14.1,2015-05-04,3.5,Active
+EMP0851,Male,40,Engineering,Mumbai,110538.84,15.6,2019-03-26,,Active
+EMP0195,Male,26,Product,Hyderabad,74067.08,2.6,2019-01-24,3.0,Resigned
+EMP0810,Male,34,Operations,Pune,73963.7,8.7,2016-05-22,3.4,Active
+EMP0560,Female,28,Engineering,Hyderabad,79631.38,3.1,2021-09-08,4.3,Active
+EMP0321,Male,26,HR,Chennai,51671.74,1.0,2016-03-01,3.8,Active
+EMP0968,Male,28,HR,Ahmedabad,50582.73,2.0,2015-12-08,2.9,Active
+EMP0782,Male,30,Marketing,Kolkata,66784.76,4.1,2020-12-28,3.5,Active
+EMP0308,Female,31,Engineering,Chennai,74339.23,5.6,2022-01-18,1.5,Probation
+EMP0512,Male,23,Operations,Chennai,48291.96,0.7,2023-10-24,3.5,On Leave
+EMP0380,Male,31,Operations,Chennai,65898.34,4.8,2024-06-24,2.8,Active
+EMP0492,Male,42,Product,Bangalore,108163.67,19.2,2024-07-11,3.7,Probation
+EMP0761,Female,36,Finance,Bangalore,88564.36,12.6,2017-12-02,4.1,Active
+EMP0367,Male,29,Operations,Kolkata,55071.9,2.4,2021-10-13,2.0,Probation
+EMP0462,Male,30,Operations,Bangalore,68603.44,7.2,2016-03-20,2.5,Active
+EMP0807,Male,42,Marketing,Hyderabad,99552.28,,2024-11-17,2.5,Active
+EMP0745,Male,32,HR,Kolkata,65723.77,6.5,2015-02-02,4.2,On Leave
+EMP0269,Male,31,Sales,Kolkata,65089.94,5.2,2020-12-28,,Resigned
+EMP0583,Male,23,Marketing,Kolkata,57022.6,0.5,2015-07-06,3.9,Active
+EMP0068,Female,30,Operations,Pune,67699.62,7.9,2023-12-12,3.9,Active
+EMP0695,Male,31,Sales,Pune,71123.77,8.6,2021-07-08,3.6,On Leave
+EMP0621,Female,40,Engineering,,101830.72,14.1,2021-06-04,,Active
+EMP0698,Female,32,Sales,Delhi,73512.81,8.7,2020-10-05,3.5,Active
+EMP0715,Male,38,Operations,Hyderabad,76083.9,12.0,2021-09-02,4.9,On Leave
+EMP0371,Male,35,Product,Bangalore,96346.7,9.6,2024-10-05,,On Leave
+EMP0790,Male,33,Engineering,Ahmedabad,91194.98,10.8,2016-04-23,3.7,On Leave
+EMP0603,Female,26,HR,Delhi,57446.2,2.7,2019-07-20,2.7,Probation
+EMP0956,Male,42,Marketing,Bangalore,86831.13,18.9,2022-01-12,3.8,Probation
+EMP0091,,42,HR,Bangalore,86290.83,18.7,2019-04-21,,Active
+EMP0815,Female,36,Finance,Bangalore,86179.16,10.2,2020-09-02,1.3,Active
+EMP0763,Male,33,Engineering,,89579.42,6.6,2024-10-31,3.1,Active
+EMP0013,Male,29,Product,Bangalore,82145.75,5.7,2020-09-10,1.5,Active
+EMP0457,Male,24,Marketing,Hyderabad,57045.6,2.0,2019-08-26,2.5,Active
+EMP0734,Male,37,Product,Hyderabad,104508.23,12.5,2019-02-01,2.9,On Leave
+EMP0783,Female,32,Engineering,,84021.66,,2018-05-25,,Resigned
+EMP0691,Female,28,Finance,Kolkata,68731.82,2.2,2015-12-29,3.5,Active
+EMP0868,Female,38,Engineering,Pune,110211.58,15.4,2017-10-09,3.0,Active
+EMP0441,Male,27,Marketing,Hyderabad,60338.43,2.9,2019-08-18,3.8,Probation
+EMP0774,Male,28,Marketing,Bangalore,60808.76,2.9,2019-01-10,2.9,Probation
+EMP0635,Male,38,Product,Chennai,104040.39,15.5,2024-02-12,3.8,Active
+EMP0062,Female,33,Product,Chennai,95185.41,7.7,2016-03-18,2.4,Resigned
+EMP0751,Male,45,Operations,Ahmedabad,107902.71,19.4,2020-05-13,2.7,Probation
+EMP0353,Female,41,Operations,Ahmedabad,96344.46,18.5,2016-09-21,,Active
+EMP0506,Male,24,Engineering,Mumbai,74841.0,0.5,2022-09-18,3.5,On Leave
+EMP0065,Male,35,HR,Pune,70961.46,13.4,2022-02-16,2.5,On Leave
+EMP0064,Female,32,Product,Mumbai,91224.17,6.4,2018-11-23,3.0,Resigned
+EMP0962,,34,Product,,105491.1,11.9,2017-01-10,3.3,Resigned
+EMP0166,Male,34,Engineering,Pune,105869.62,12.9,2017-09-14,3.1,Probation
+EMP0773,Male,26,Sales,Chennai,65445.45,4.0,2022-04-04,3.5,Probation
+EMP0967,Male,25,Marketing,Bangalore,61339.75,3.3,2023-03-06,2.3,Resigned
+EMP0258,Female,38,Sales,Kolkata,87191.95,16.1,2018-07-21,3.0,Active
+EMP0700,Female,30,Operations,Chennai,68008.69,7.6,2019-03-08,3.7,On Leave
+EMP0671,Male,37,Engineering,,99567.06,12.6,2019-04-18,3.8,Active
+EMP0008,Female,37,Operations,Mumbai,84235.42,11.4,2024-01-11,3.1,Active
+EMP0544,Male,38,Sales,Kolkata,85209.21,15.6,2019-02-05,2.8,Active
+EMP0247,,29,Engineering,Mumbai,76087.77,4.8,2015-01-28,4.6,Resigned
+EMP0754,Female,30,Marketing,Chennai,66053.21,5.6,2016-09-03,3.2,Active
+EMP0354,Male,25,Sales,Hyderabad,54217.84,0.6,2016-02-02,3.6,Active
+EMP0257,Female,36,Engineering,Kolkata,104017.16,12.9,2015-12-18,2.6,Resigned
+EMP0437,Male,30,Operations,Mumbai,67481.71,8.4,2022-11-10,4.3,Active
+EMP0224,Female,25,HR,Ahmedabad,53894.16,2.8,2024-01-26,3.2,Active
+EMP0293,Male,31,HR,Ahmedabad,74590.36,9.3,2020-06-22,2.6,Active
+EMP0656,Female,40,Engineering,Bangalore,115131.59,16.0,2022-07-07,3.2,Active
+EMP0519,Male,30,Marketing,Pune,62080.02,3.6,2022-03-25,4.2,Active
+EMP0423,Female,35,Engineering,Chennai,102034.96,12.5,2022-10-09,,Probation
+EMP0616,Female,32,HR,Chennai,62208.01,,2019-08-10,3.4,Resigned
+EMP0304,,30,Marketing,Chennai,65129.57,5.9,2023-09-26,2.8,Probation
+EMP0874,Male,33,Engineering,Pune,92605.24,9.6,2024-01-09,3.4,On Leave
+EMP0651,Male,26,Finance,Bangalore,72722.09,3.7,2015-03-06,3.5,On Leave
+EMP0405,Male,36,Finance,Bangalore,88246.73,10.7,2024-05-29,3.2,Resigned
+EMP0167,Female,36,Operations,Ahmedabad,88364.7,,2022-10-19,,On Leave
+EMP0234,Female,33,Marketing,Kolkata,72016.67,8.6,2021-03-26,2.7,On Leave
+EMP0775,,43,Engineering,Delhi,107788.19,16.7,2023-06-26,2.3,On Leave
+EMP0330,Male,31,Marketing,,66106.69,4.4,2024-02-12,2.8,Active
+EMP0192,Female,28,HR,Pune,59426.19,5.3,2017-02-16,3.5,Active
+EMP0193,Male,44,HR,Hyderabad,95575.19,19.9,2017-05-31,3.8,Resigned
+EMP0933,Male,33,Product,,85931.53,7.1,2019-03-31,4.5,Resigned
+EMP0780,Female,27,Finance,Bangalore,65875.21,2.1,2024-06-14,3.6,On Leave
+EMP0720,Female,30,Marketing,Mumbai,68978.41,6.2,2023-07-27,3.0,Active
+EMP0127,Male,43,Finance,Mumbai,111676.61,19.2,2018-03-24,4.4,Resigned
+EMP0717,Male,34,HR,Delhi,71001.5,7.4,2016-05-15,2.8,Active
+EMP0194,Male,27,Sales,Chennai,53666.04,1.4,2021-01-07,3.6,Active
+EMP0590,,39,Operations,Pune,93828.85,17.2,2020-01-26,2.9,Active
+EMP0556,Female,33,Marketing,Hyderabad,73377.14,8.8,2022-04-26,3.0,Active
+EMP0148,Male,38,Engineering,Chennai,104947.35,15.9,2017-10-29,3.6,Probation
+EMP0152,Female,28,Sales,Bangalore,61761.84,4.0,2016-09-26,3.8,Active
+EMP0884,Male,35,Engineering,Chennai,85515.72,10.9,2016-01-17,2.6,Active
+EMP0181,Male,44,Engineering,Bangalore,120322.9,19.7,2021-11-11,2.6,Active
+EMP0926,Female,30,Operations,Pune,78200.63,8.5,2024-02-18,3.8,Active
+EMP0007,Male,39,Sales,Kolkata,81573.59,14.2,2018-01-10,2.7,Probation
+EMP0520,Female,34,Operations,Pune,70150.39,11.0,2024-01-13,3.2,On Leave
+EMP0190,Male,37,Sales,Kolkata,76400.78,12.3,2016-06-19,2.8,Active
+EMP0454,Male,28,Engineering,Chennai,69246.87,1.3,2021-06-28,2.5,Resigned
+EMP0063,Female,42,Engineering,Hyderabad,118044.99,18.6,2016-02-22,3.6,Probation
+EMP0607,Male,32,Finance,Kolkata,90380.23,9.5,2018-09-03,3.5,On Leave
+EMP0693,Female,34,Product,Ahmedabad,85835.65,7.9,2017-07-08,3.5,Active
+EMP0750,Male,25,Marketing,Bangalore,54135.54,0.6,2017-10-19,2.2,Resigned
+EMP0295,Male,33,Product,Bangalore,91207.95,10.9,2021-05-07,3.0,On Leave
+EMP0481,Male,29,HR,Kolkata,53820.35,2.8,2018-12-17,,Resigned
+EMP0904,Male,29,HR,,57721.9,4.8,2024-12-05,3.3,Active
+EMP0724,Female,40,Sales,Pune,75284.75,15.4,2018-11-29,3.4,Probation
+EMP0620,Male,33,HR,Chennai,75615.03,9.4,2018-03-30,2.6,Active
+EMP0508,Male,32,HR,Hyderabad,64679.39,,2017-12-13,3.3,Active
+EMP0726,Male,30,Marketing,Delhi,60886.98,5.1,2018-10-14,3.7,Active
+EMP0203,Female,23,Marketing,Kolkata,54313.49,1.1,2020-08-17,3.0,Resigned
+EMP0838,Male,41,HR,Ahmedabad,90399.75,19.2,2015-01-18,2.4,Active
+EMP0488,Male,28,Product,Mumbai,85545.01,3.9,2022-07-24,4.0,Active
+EMP0969,Female,31,Operations,Pune,74726.65,8.8,2021-04-27,3.0,Probation
+EMP0543,,39,Marketing,Hyderabad,86190.4,15.4,2017-09-19,2.4,Active
+EMP0641,Male,33,Sales,Delhi,59231.64,7.0,2024-06-07,2.8,On Leave
+EMP0329,Male,33,Product,Mumbai,93884.22,9.3,2024-04-24,3.3,Active
+EMP0397,,33,Finance,Ahmedabad,87808.96,10.2,2016-09-02,4.2,Active
+EMP0082,Male,29,Product,Ahmedabad,89744.41,6.5,2022-09-21,2.0,Active
+EMP0735,Male,31,Marketing,Hyderabad,71277.48,5.2,2024-06-27,2.0,On Leave
+EMP0052,Female,41,HR,Chennai,94825.44,18.0,2023-08-03,3.7,Resigned
+EMP0216,Female,25,Product,Mumbai,76297.25,2.7,2023-04-06,3.0,Active
+EMP0239,,40,Operations,Hyderabad,73916.03,13.6,2023-04-26,2.7,Active
+EMP0703,Female,34,Finance,Bangalore,93342.36,10.7,2022-09-19,3.2,Active
+EMP0811,Female,38,Product,Hyderabad,92249.66,13.2,2018-12-05,1.3,Active
+EMP0127,Male,43,Finance,Mumbai,111676.61,19.2,2018-03-24,4.4,Resigned
+EMP0004,Male,28,HR,Delhi,55688.24,2.4,2019-03-31,3.5,Active
+EMP0903,Male,30,Finance,Mumbai,79887.01,8.2,2019-05-14,,Active
+EMP0736,Male,41,Sales,Hyderabad,88550.93,16.6,2016-04-10,3.9,Active
+EMP0094,Female,33,Sales,Hyderabad,67282.26,7.0,2021-05-31,3.2,On Leave
+EMP0191,Male,34,Finance,Kolkata,87419.47,11.5,2024-09-09,3.2,Resigned
+EMP0084,Male,46,Marketing,Mumbai,108902.99,19.3,2023-07-23,2.4,Active
+EMP0764,Female,40,Finance,Pune,113433.98,,2023-04-07,3.8,On Leave
+EMP0996,Female,25,HR,Hyderabad,55873.7,1.2,2016-01-08,,Active
+EMP0143,Female,26,Sales,Delhi,54870.34,3.4,2018-06-25,3.2,On Leave
+EMP0722,Male,34,Marketing,Ahmedabad,74344.73,10.1,2022-05-27,3.3,Resigned
+EMP0058,Male,40,Engineering,Bangalore,115088.67,18.2,2024-09-20,3.4,On Leave
+EMP0125,Male,34,Marketing,Pune,77561.01,8.6,2016-09-17,,Probation
+EMP0107,Male,32,Engineering,Bangalore,84843.76,6.5,2017-04-02,3.7,Active
+EMP0109,Female,30,Product,Kolkata,92717.58,6.3,2024-06-26,4.2,Resigned
+EMP0681,Female,34,Sales,Bangalore,70687.04,9.4,2017-09-01,2.8,Active
+EMP0805,Female,46,Operations,Chennai,108650.81,19.6,2023-02-03,1.9,Probation
+EMP0339,Male,28,Marketing,Bangalore,67463.78,5.1,2021-04-25,2.3,Active
+EMP0895,Female,25,HR,Kolkata,52214.52,1.0,2015-06-04,2.8,Active
+EMP0647,Male,30,Engineering,Ahmedabad,78004.19,5.2,2021-11-08,4.3,Active
+EMP0472,Male,41,HR,,91820.49,15.8,2019-05-13,3.6,Probation
+EMP0077,Female,26,Sales,Kolkata,54699.76,,2020-01-20,2.4,On Leave
+EMP0642,Male,37,Product,Hyderabad,106830.19,15.4,2018-05-09,2.7,Probation
+EMP0597,Male,37,Sales,Pune,75786.45,,2021-01-23,2.8,On Leave
+EMP0160,Male,33,Engineering,Bangalore,86338.05,7.8,2016-07-17,3.2,Active
+EMP0073,Female,34,Operations,Chennai,82376.16,9.9,2017-07-20,3.1,Active
+EMP0633,Male,31,Product,Bangalore,79493.57,4.7,2016-03-30,4.0,Probation
+EMP0892,Female,36,Marketing,Chennai,80157.0,14.1,2024-11-23,4.7,Probation
+EMP0350,Male,39,Engineering,Delhi,90157.7,16.1,2018-11-01,3.7,Active
+EMP0827,Female,39,Engineering,Bangalore,101757.85,17.3,2017-11-12,3.5,Active
+EMP0755,,28,Sales,Delhi,54074.43,3.8,2017-07-08,3.4,Probation
+EMP0014,Male,35,Product,Bangalore,107160.43,12.7,2021-01-18,3.7,Resigned
+EMP0741,Female,38,Marketing,Kolkata,85583.5,12.2,2017-06-11,3.1,Active
+EMP0010,Female,30,Marketing,Kolkata,65040.29,5.3,2019-01-22,4.1,Active
+EMP0078,Female,42,Sales,Delhi,99695.11,17.3,2023-07-22,2.6,Active
+EMP0885,,38,Engineering,Chennai,97465.17,13.7,2017-04-23,3.7,Active
+EMP0090,Male,37,Engineering,Delhi,93452.47,11.3,2022-04-07,3.4,Active
+EMP0798,Female,42,HR,Delhi,97955.57,16.1,2024-03-27,2.4,Resigned
+EMP0243,Male,29,Engineering,Hyderabad,87043.4,5.6,2020-08-07,3.6,Resigned
+EMP0821,Male,39,HR,Bangalore,90536.92,16.8,2024-09-18,2.4,Probation
+EMP0586,Male,33,Marketing,Bangalore,70572.38,6.9,2020-05-26,3.8,Active
+EMP0158,Female,27,Product,,73317.98,2.9,2024-04-26,,On Leave
+EMP0067,Female,40,Product,Ahmedabad,103675.51,14.8,2021-05-23,4.4,Resigned
+EMP0383,Male,34,Sales,Hyderabad,61465.16,9.5,2020-08-11,2.3,Active
+EMP0182,Male,31,Engineering,,91684.75,6.5,2016-05-28,3.9,Active
+EMP0077,Female,26,Sales,Kolkata,54699.76,,2020-01-20,2.4,On Leave
+EMP0249,Female,35,Operations,Chennai,74687.82,8.9,2024-02-22,2.7,Active
+EMP0110,Male,24,Sales,Chennai,52455.87,2.3,2021-07-22,3.7,On Leave
+EMP0781,Female,27,Engineering,Chennai,73888.25,2.1,2018-10-30,,Active
+EMP0826,Male,33,Finance,Kolkata,80883.11,6.7,2017-01-09,3.3,On Leave
+EMP0132,Female,32,HR,Delhi,64807.03,7.1,2024-11-27,3.1,Active
+EMP0831,Female,36,HR,Delhi,61348.58,11.3,2017-10-05,3.3,Resigned
+EMP0024,Female,34,Marketing,Kolkata,77311.62,8.4,2015-01-09,3.0,On Leave
+EMP0117,Female,45,Marketing,Pune,105125.31,19.8,2023-09-07,2.3,Active
+EMP0918,Female,29,Marketing,Ahmedabad,66611.15,5.5,2015-10-22,4.0,Active
+EMP0522,Male,29,HR,Bangalore,53952.4,4.2,2015-10-10,2.7,Resigned
+EMP0883,Male,28,Marketing,Kolkata,63553.85,3.5,2017-04-16,2.4,On Leave
+EMP0327,Female,40,Sales,Pune,81045.26,17.1,2016-08-30,2.9,Active
+EMP0964,Female,38,Product,,92976.29,15.2,2019-09-29,3.5,Probation
+EMP0683,Male,28,Sales,Bangalore,62141.65,3.4,2020-02-20,3.3,Active
+EMP0825,Female,40,Finance,Ahmedabad,99609.46,18.0,2015-12-13,4.4,Resigned
+EMP0087,Female,38,Product,Mumbai,91672.8,15.3,2022-05-17,4.1,Resigned
+EMP0688,Male,32,Marketing,Kolkata,79403.61,10.1,2016-08-28,3.5,Probation
+EMP0941,Male,42,Marketing,Bangalore,90844.27,18.6,2020-12-29,,Probation
+EMP0461,Female,46,Finance,Chennai,117444.64,19.9,2016-11-17,2.2,Probation
+EMP0936,Male,41,Engineering,Mumbai,130971.71,19.7,2024-01-21,3.9,Probation
+EMP0086,Male,30,Sales,Chennai,57875.17,6.8,2022-06-06,3.7,On Leave
+EMP0274,Female,43,Product,Ahmedabad,102314.14,,2018-11-27,3.2,On Leave
+EMP0289,Female,38,Finance,Mumbai,104905.48,13.9,2021-05-24,2.3,Active
+EMP0501,Female,37,HR,Delhi,64213.06,11.2,2022-05-06,3.7,On Leave
+EMP0198,Female,37,Marketing,Bangalore,94158.99,14.4,2018-09-05,3.9,Resigned
+EMP0566,Male,34,Finance,Hyderabad,93125.72,11.0,2018-04-07,3.3,On Leave
+EMP0268,Male,26,Operations,Ahmedabad,67716.85,4.6,2016-07-24,3.2,Probation
+EMP0737,Male,25,Marketing,Hyderabad,55800.97,1.0,2016-10-14,3.9,Active
+EMP0355,Male,30,Marketing,Chennai,58182.69,3.8,2016-01-09,2.9,Probation
+EMP0966,Male,42,Finance,Mumbai,120873.8,18.3,2017-08-29,4.0,Active
+EMP0136,Female,24,Engineering,Pune,68591.31,0.7,2015-10-23,3.7,On Leave
+EMP0351,Male,30,HR,Mumbai,58223.35,3.6,2019-11-02,2.1,Probation
+EMP0725,Male,23,Finance,Mumbai,66249.58,1.0,2022-06-01,2.8,Active
+EMP0417,Male,42,HR,Bangalore,106951.51,19.6,2016-07-19,5.0,On Leave
+EMP0435,Male,41,Operations,Mumbai,94927.04,15.6,2015-12-25,3.6,Active
+EMP0803,Female,34,Product,Delhi,103184.36,10.6,2015-12-14,3.3,Active
+EMP0875,Male,29,Sales,Delhi,58331.93,5.8,2023-10-24,4.5,Active
+EMP0525,Male,39,HR,Mumbai,72491.73,15.4,2024-05-13,3.1,Active
+EMP0823,Male,44,Operations,Delhi,100068.42,17.9,2022-03-22,3.0,Resigned
+EMP0376,,31,HR,Pune,63834.18,6.4,2021-04-18,3.5,Probation
+EMP0344,Male,39,Marketing,Hyderabad,92400.42,14.3,2022-06-19,3.5,Resigned
+EMP0385,Male,42,HR,Ahmedabad,109083.99,19.8,2018-09-24,3.5,Probation
+EMP0714,Male,38,HR,Bangalore,76712.57,13.6,2019-06-06,1.6,On Leave
+EMP0277,Female,26,Operations,Kolkata,61410.29,4.1,2019-05-12,2.9,Active
+EMP0689,Female,32,Product,Delhi,85418.59,8.8,2017-06-02,2.9,Probation
+EMP0712,,32,HR,Hyderabad,60523.57,6.0,2021-03-18,4.3,On Leave
+EMP0037,Female,39,Marketing,Bangalore,83010.83,13.5,2023-12-21,,Active
+EMP0398,,33,Product,Ahmedabad,95159.03,10.5,2018-04-27,3.2,Active
+EMP0997,Female,31,HR,Kolkata,65794.32,8.4,2022-03-22,2.8,Active
+EMP0482,Male,23,Finance,,64406.36,0.7,2021-03-21,2.7,Active
+EMP0927,Male,38,Sales,Delhi,92694.58,,2015-10-14,,Probation
+EMP0205,,32,Finance,Ahmedabad,87489.86,7.8,2017-02-26,2.2,Active
+EMP0390,Male,33,Finance,Pune,89878.13,10.7,2023-05-31,2.7,Active
+EMP0310,Male,44,Marketing,Chennai,87062.28,19.5,2022-11-01,3.1,On Leave
+EMP0020,Female,40,Sales,Ahmedabad,70911.41,13.5,2017-09-22,4.7,On Leave
+EMP0588,Male,32,Operations,Delhi,64518.27,6.7,2016-09-03,1.7,Active
